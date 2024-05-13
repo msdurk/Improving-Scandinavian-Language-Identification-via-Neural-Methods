@@ -6,7 +6,7 @@ from transformers import BertTokenizer, BertForSequenceClassification
 from transformers import AdamW, get_linear_schedule_with_warmup
 from sklearn.metrics import accuracy_score
 from tqdm import tqdm
-from configs import SAVE_PATH, GOLD_TRAIN_PATH, GOLD_DEV_PATH
+from configs import SAVE_DIR, save_count, GOLD_TRAIN_PATH, GOLD_DEV_PATH
 
 # Ensure CUDA is available and set the device
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
@@ -120,6 +120,7 @@ for epoch in range(epochs):
     print(f"Average validation accuracy: {avg_val_accuracy}")
 
 # Save the fine-tuned model and tokenizer
-model_path = SAVE_PATH
+model_path = SAVE_DIR + "/" + "mbert-finetuned" + save_count
+save_count = save_count + 1
 model.save_pretrained(model_path)
 tokenizer.save_pretrained(model_path)
