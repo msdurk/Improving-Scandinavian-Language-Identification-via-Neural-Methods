@@ -184,20 +184,36 @@ import torch
 class MBertLanguageIdentifier(AbstractLanguageIdentifier):
     def __init__(self, args):
         super().__init__(args)
-        model_path = '/fp/projects01/ec30/models/bert-base-multilingual-cased/'
+        model_path = '/itf-fi-ml/home/liseche/exam_IN5550/mbert-based/final_model'
         self.tokenizer = AutoTokenizer.from_pretrained(model_path)
         self.model = AutoModelForSequenceClassification.from_pretrained(model_path, num_labels=5)
         self.language_pipeline = pipeline("text-classification", model=self.model, tokenizer=self.tokenizer)
 
     def identify(self, text: str) -> List[str]:
         predictions = self.language_pipeline(text, max_length=512, truncation=True)
-        label_map = {0: 'nn', 1: 'nb', 2: 'da', 3: 'sv', 4: 'other'}
+        label_map = {0: 'da', 1: 'nb', 2: 'nn', 3: 'other', 4: 'sv'}
         predicted_label = predictions[0]['label']
         predicted_language = label_map[int(predicted_label.split('_')[1])]
         print(predicted_language)
         return [predicted_language]
 
+from transformers import XLMRobertaTokenizer, XLMRobertaForSequenceClassification
 
+class RobertaLanguageIdentifier(AbstractLanguageIdentifier):
+    def __init__(self, args):
+        super().__init__(args)
+        model_path = '/itf-fi-ml/home/liseche/exam_IN5550/results/final_model'
+        self.tokenizer = XLMRobertaTokenizer.from_pretrained(model_path)
+        self.model = XLMRobertaForSequenceClassification.from_pretrained(model_path, num_labels=5)
+        self.language_pipeline = pipeline("text-classification", model=self.model, tokenizer=self.tokenizer)
+
+    def identify(self, text: str) -> List[str]:
+        predictions = self.language_pipeline(text, max_length=512, truncation=True)
+        label_map = {0: 'da', 1: 'nb', 2: 'nn', 3: 'other', 4: 'sv'}
+        predicted_label = predictions[0]['label']
+        predicted_language = label_map[int(predicted_label.split('_')[1])]
+        print(predicted_language)
+        return [predicted_language] 
 
 
 def print_confusion_matrix(confusion_matrix, supported_languages):
@@ -358,8 +374,35 @@ def evaluate(args, identifier: AbstractLanguageIdentifier):
             f.write(f"Target: {target_lang}\n")
             for pred_lang, count in miscounts.items():
                 f.write(f"\t{pred_lang}: {count}\n")
-            f.write("\n")
-            
+            f.write("\n\n")
+        f.write(f"\n# Results for {args.method}:\n")
+
+        f.write("## Loose metrics\n")
+        f.write(f"\tLoose accuracy: {loose_accuracy.compute().item():.2%}\n")
+        f.write(f"\tLoose macro F1: {sum([loose_per_language_f1[language].compute().item() for language in supported_languages]) / len(supported_languages):.2%}\n")
+        f.write(f"\tLoose macro MCC: {sum([loose_per_language_mcc[language].compute().item() for language in supported_languages]) / len(supported_languages):.2%}\n\n")
+
+        f.write("### Per-language metrics\n")
+        for language in supported_languages:
+            f.write(f"\t{language}:\n")
+            f.write(f"\t\tF1: {loose_per_language_f1[language].compute().item():.2%}\n")
+            f.write(f"\t\tMCC: {loose_per_language_mcc[language].compute().item():.2%}\n\n")
+
+        f.write("\n\n## Strict metrics\n")
+        f.write(f"\tStrict accuracy: {strict_accuracy.compute().item():.2%}\n")
+        f.write(f"\tOverlap F1: {overlap_f1 / len(samples):.2%}\n")
+        f.write(f"\tStrict macro F1: {sum([strict_per_language_f1[language].compute().item() for language in supported_languages]) / len(supported_languages):.2%}\n")
+        f.write(f"\tStrict macro MCC: {sum([strict_per_language_mcc[language].compute().item() for language in supported_languages]) / len(supported_languages):.2%}\n\n")
+
+        f.write("### Per-language metrics\n")
+        for language in supported_languages:
+            f.write(f"\t{language}:\n")
+            f.write(f"\t\tF1: {strict_per_language_f1[language].compute().item():.2%}\n")
+            f.write(f"\t\tMCC: {strict_per_language_mcc[language].compute().item():.2%}\n\n")
+
+        f.write("\n\n## CPU inference time\n")
+        f.write(f"\tTotal runtime: {end_time - start_time:.2f} seconds\n")
+        f.write(f"\tms / sentence: {(end_time - start_time) / len(samples) * 1000:.2f} ms\n")
 
 
 def main():
@@ -386,6 +429,8 @@ def main():
         identifier = LangdetectLanguageIdentifier(args)
     elif args.method == "mbert":
         identifier = MBertLanguageIdentifier(args)
+    elif args.method == "xlmr":
+        identifier = RobertaLanguageIdentifier(args)
     else:
         raise ValueError(f"Unsupported method: {args.method}")
 

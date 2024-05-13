@@ -1,4 +1,5 @@
 from transformers import BertTokenizer
+from configs import MBERT_PATH
 import re
 import torch
 
@@ -8,7 +9,7 @@ def clean_text(text):
     cleaned = re.sub(r'\s+', ' ', cleaned).strip()
     return cleaned
 
-def tokenize_dataset(dataset, tokenizer_path='/fp/projects01/ec30/models/bert-base-multilingual-cased/', max_length=128):
+def tokenize_dataset(dataset, tokenizer_path=MBERT_PATH, max_length=128):
     tokenizer = BertTokenizer.from_pretrained(tokenizer_path)
 
     tokenized_dataset = []
