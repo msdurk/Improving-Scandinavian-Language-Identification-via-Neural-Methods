@@ -8,6 +8,7 @@ from huggingface_hub import hf_hub_download
 from data import load_and_filter_data
 from preprocess import tokenize_dataset
 from torch.utils.data import DataLoader
+from configs import SAVE_PATH, GOLD_DEV_PATH, GOLD_TRAIN_PATH 
 from transformers import DataCollatorWithPadding, BertTokenizer
 
 
@@ -16,8 +17,8 @@ def save_model(model, tokenizer, save_path):
     tokenizer.save_pretrained(save_path)
 
 def main():
-    train_filepath = '/fp/homes01/u01/ec-victocla/exam/gold_train.jsonl'
-    dev_filepath = '/fp/homes01/u01/ec-victocla/exam/gold_dev.jsonl'
+    train_filepath = GOLD_TRAIN_PATH
+    dev_filepath = GOLD_DEV_PATH
 
     # Load fastText model
     fasttext_model_path = hf_hub_download(repo_id="laurievb/OpenLID", filename="model.bin")
@@ -59,7 +60,7 @@ def main():
 
     results = trainer.evaluate(eval_dataset=dev_data)
     print(results)
-    save_path = './results/final_model'
+    save_path = SAVE_PATH
     save_model(custom_model, tokenizer, save_path)
 
 if __name__ == "__main__":
