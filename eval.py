@@ -1,4 +1,5 @@
 import random
+import sys
 import time
 from typing import List
 from tqdm import tqdm
@@ -15,6 +16,7 @@ def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument("--method", type=str, default="nllb", help="The method to use for language identification, supported methods are: random, cld3, nllb, fasttext, openlid, langid, lingua, langdetect")
     parser.add_argument("--dataset", type=str, default="test.jsonl.gz", help="The dataset to use for evaluation")
+    parser.add_argument("--path", type=str, help="Path to desired model to use")
     return parser.parse_args()
 
 
@@ -184,7 +186,12 @@ import torch
 class MBertLanguageIdentifier(AbstractLanguageIdentifier):
     def __init__(self, args):
         super().__init__(args)
-        model_path = '/itf-fi-ml/home/liseche/exam_IN5550/models/mbert-finetuned4'
+        if args.path:
+            model_path = args.path
+        else:
+            print(f"You need to specify a path to use xlmr method!")
+            sys.exit(1)
+
         self.tokenizer = AutoTokenizer.from_pretrained(model_path)
         self.model = AutoModelForSequenceClassification.from_pretrained(model_path, num_labels=5)
         self.language_pipeline = pipeline("text-classification", model=self.model, tokenizer=self.tokenizer)
@@ -202,7 +209,12 @@ from transformers import XLMRobertaTokenizer, XLMRobertaForSequenceClassificatio
 class RobertaLanguageIdentifier(AbstractLanguageIdentifier):
     def __init__(self, args):
         super().__init__(args)
-        model_path = '/itf-fi-ml/home/liseche/exam_IN5550/results/final_model'
+        if args.path:
+            model_path = args.path
+        else:
+            print(f"You need to specify a path to use roberta method!")
+            sys.exit(1)
+            
         self.tokenizer = XLMRobertaTokenizer.from_pretrained(model_path)
         self.model = XLMRobertaForSequenceClassification.from_pretrained(model_path, num_labels=5)
         self.language_pipeline = pipeline("text-classification", model=self.model, tokenizer=self.tokenizer)
@@ -349,9 +361,16 @@ def evaluate(args, identifier: AbstractLanguageIdentifier):
     print()
     
     misclassifications_count = {lang: {} for lang in supported_languages}
-    
 
-    output_file = "evaluation_results.txt" 
+    output_file = "evaluation_results"
+    if args.dataset:
+        stripped = args.dataset.split('/')[-1]
+        stripped = stripped.split('.')[0]
+        output_file += "_" + stripped
+    if args.path:
+        stripped = args.path.split('/')[-1]
+        output_file += "_" + stripped
+    output_file += ".txt"
     with open(output_file, "w") as f:
     
         for sample in tqdm(samples):

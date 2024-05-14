@@ -15,7 +15,7 @@ print(f'Using device: {device}')
 def load_jsonl_dataset(file_path):
     return load_dataset('json', data_files=file_path)
 
-train_path = GOLD_TRAIN_SHORT_PATH
+train_path = SILVER_TRAIN
 val_path = GOLD_DEV_SHORT_PATH
 MODEL_NAME = 'bert-base-multilingual-cased'
 batch_size = 16
@@ -135,7 +135,10 @@ end = time.time() - start
 print(f"Total training time for model {MODEL_NAME} trained on {train_path} validated on {val_path} is {end} seconds.")
 
 # Save the fine-tuned model and tokenizer
-model_path = SAVE_DIR + "/" + MODEL_NAME + "_" + train_path + "_" + val_path
+model_path = SAVE_DIR + "/" + MODEL_NAME + "_"
+model_path += train_path.split('/')[-1].split('.')[0] + "_"
+model_path += val_path.split('/')[-1].split('.')[0]
+model.config.lang2id = lang2id
 model.save_pretrained(model_path)
 tokenizer.save_pretrained(model_path)
 print(f"Saved model to {model_path}")
