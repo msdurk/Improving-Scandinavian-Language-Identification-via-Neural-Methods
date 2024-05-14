@@ -15,7 +15,7 @@ print(f'Using device: {device}')
 def load_jsonl_dataset(file_path):
     return load_dataset('json', data_files=file_path)
 
-train_path = GOLD_TRAIN_PATH
+train_path = SILVER_TRAIN
 val_path = GOLD_DEV_PATH
 MODEL_NAME = 'xlm-roberta-base'
 batch_size = 16

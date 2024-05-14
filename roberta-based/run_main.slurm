@@ -1,7 +1,7 @@
 #!/bin/bash
 #SBATCH --job-name=in5550_training_gpu_epoch1
 #SBATCH --account=ec30
-#SBATCH --time=06:30:00           # Adjusted for a longer running time
+#SBATCH --time=02:30:00           # Adjusted for a longer running time
 #SBATCH --partition=accel         # To use the accelerator (GPU) nodes
 #SBATCH --gpus=1                  # Request 1 GPU
 #SBATCH --cpus-per-task=32        # Number of CPU cores per task

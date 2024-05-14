@@ -1,7 +1,7 @@
 #!/bin/bash
 #SBATCH --job-name=in5550_training_gpu_epoch1
 #SBATCH --account=ec30
-#SBATCH --time=06:30:00           # Adjusted for a longer running time
+#SBATCH --time=00:30:00           # Adjusted for a longer running time
 #SBATCH --partition=accel         # To use the accelerator (GPU) nodes
 #SBATCH --gpus=1                  # Request 1 GPU
 #SBATCH --cpus-per-task=32        # Number of CPU cores per task
@@ -20,4 +20,4 @@ module load nlpl-llmtools/03-foss-2022b-Python-3.10.8
 
 cd /fp/homes01/u01/ec-liseche/exam_IN5550
 
-python3 main.py
+python3 eval.py --method xlmr --dataset /fp/homes01/u01/ec-liseche/exam_IN5550/data/test.jsonl --path /cluster/work/projects/ec30/liseche/xlm-roberta-base_gold-train-short_gold-dev-short
