@@ -18,17 +18,17 @@ def load_jsonl_dataset(file_path):
     return load_dataset('json', data_files=file_path)
 
 # Paths to your datasets
-train_path = GOLD_TRAIN_SHORT_PATH
+train_path = SILVER_TRAIN
 val_path = GOLD_DEV_SHORT_PATH
 MODEL_NAME = 'bert-base-multilingual-cased'
-
+batch_size = 16
 # Initialize the tokenizer for Multilingual BERT
 tokenizer = BertTokenizer.from_pretrained(MODEL_NAME)
 
 def tokenize_function(examples):
     return tokenizer(examples['text'], truncation=True, padding='max_length', max_length=128)
 
-def map_language2id(dataset):
+def add_language2id(dataset):
    # Check if 'label' needs to be generated from 'languages'
     if 'languages' in dataset['train'].column_names:
         languages = np.unique(dataset['train']['languages'])
@@ -40,49 +40,30 @@ def map_language2id(dataset):
             return examples
 
         # Apply the function to map languages to labels
-        dataset.map(add_label_column)
-    return dataset
+        return dataset.map(add_label_column), lang2id
+    return dataset, lang2id
 
 if train_path == SILVER_TRAIN:
-    pass
+    dataset = load_dataset('json', data_files=train_path)
+    dataset = dataset['train'].train_test_split(test_size=0.2)
+    dataset, lang2id = add_language2id(dataset)
+    tokenized_datasets = dataset.map(tokenize_function, batched=True)
+    tokenized_datasets.set_format(type='torch', columns=['input_ids', 'attention_mask', 'label'])
+    train_loader = DataLoader(tokenized_datasets['train'], batch_size=batch_size, shuffle=True)
+    val_loader = DataLoader(tokenized_datasets['test'], batch_size=batch_size)
 else:
-    # Load and prepare datasets
     train_dataset = load_dataset('json', data_files=train_path)
     val_dataset = load_dataset('json', data_files=val_path)
 
-    # Check if 'label' needs to be generated from 'languages'
-    if 'languages' in train_dataset['train'].column_names:
-        languages = np.unique(train_dataset['train']['languages'])
-        lang2id = {lang: idx for idx, lang in enumerate(languages)}
+    train_dataset, lang2id = add_language2id(train_dataset)
+    val_dataset, _ = add_language2id(val_dataset)
 
-        # Function to map languages to ids
-        def add_label_column(examples):
-            examples['label'] = [lang2id[lang] for lang in examples['languages']]
-            return examples
-
-        # Apply the function to map languages to labels
-        train_dataset = train_dataset.map(add_label_column)
-
-    if 'languages' in val_dataset['train'].column_names:
-        languages = np.unique(val_dataset['train']['languages'])
-        lang2id = {lang: idx for idx, lang in enumerate(languages)}
-
-        # Function to map languages to ids
-        def add_label_column(examples):
-            examples['label'] = [lang2id[lang] for lang in examples['languages']]
-            return examples
-
-        # Apply the function to map languages to labels
-        val_dataset = val_dataset.map(add_label_column)
-
-    # Apply the tokenization function
     tokenized_train_datasets = train_dataset.map(tokenize_function, batched=True)
     tokenized_train_datasets.set_format(type='torch', columns=['input_ids', 'attention_mask', 'label'])
 
     tokenized_val_datasets = val_dataset.map(tokenize_function, batched=True)
     tokenized_val_datasets.set_format(type='torch', columns=['input_ids', 'attention_mask', 'label'])
 
-    batch_size = 16
     train_loader = DataLoader(tokenized_train_datasets['train'], batch_size=batch_size, shuffle=True)
     val_loader = DataLoader(tokenized_val_datasets['train'], batch_size=batch_size)
 
