@@ -1,0 +1,15 @@
+Using device: cuda
+Average training loss: 0.22109200302848075
+Average training accuracy: 0.9241394148020654
+Average validation loss: 0.13671448450621043
+Average validation accuracy: 0.9474255583126551
+Average training loss: 0.10582247686593613
+Average training accuracy: 0.9624354561101549
+Average validation loss: 0.13028029493208185
+Average validation accuracy: 0.9562655086848635
+Average training loss: 0.05094527235279091
+Average training accuracy: 0.9817340791738383
+Average validation loss: 0.134710767984875
+Average validation accuracy: 0.9587468982630273
+Total training time for model bert-base-multilingual-cased trained on /itf-fi-ml/home/liseche/exam_IN5550/data/gold_train.jsonl validated on /itf-fi-ml/home/liseche/exam_IN5550/data/gold_dev.jsonl is 1000.9628105163574 seconds.
+Saved model to /itf-fi-ml/home/liseche/exam_IN5550/models/bert-base-multilingual-cased_/itf-fi-ml/home/liseche/exam_IN5550/data/gold_train.jsonl_/itf-fi-ml/home/liseche/exam_IN5550/data/gold_dev.jsonl

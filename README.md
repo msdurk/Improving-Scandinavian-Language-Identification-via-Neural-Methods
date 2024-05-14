@@ -8,3 +8,8 @@ NLLB SINGLE OUTPUT - EVAL ON MULTI: https://docs.google.com/document/d/1obAS-Tt9
 Plots: https://docs.google.com/document/d/18pzuBg_EBnXxXj0AaQsrq22zoEqiUTLPg_OrdWiVIUs/edit?usp=sharing 
 
 Overleaf: https://www.overleaf.com/1332961498qdsqgkbwqtxf#b5fe4d
+
+mBert preds trained on gold_train: https://docs.google.com/document/d/1OwaoWjBInLqS0vh6BZn-Iwd6wxqNuN4zsgmUuqdYm9A/edit
+
+mBert preds trained on gold_train_short (sentences from gold_train under 6 words long): https://docs.google.com/document/d/10bQI4apyJGhRmvpXsQ_s661lbwcdtqKlyTKx4LlLmEA/edit?usp=sharing
+

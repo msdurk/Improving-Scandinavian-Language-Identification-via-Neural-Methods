@@ -14,6 +14,6 @@ def filter_short_texts(input_filename, output_filename):
                     outfile.write('\n')
 
 # Example usage
-input_filename = '/itf-fi-ml/home/liseche/exam_IN5550/data/gold_train.jsonl'
-output_filename = 'gold_train_short.jsonl'
+input_filename = '/itf-fi-ml/home/liseche/exam_IN5550/data/gold_dev.jsonl'
+output_filename = 'gold_dev_short.jsonl'
 filter_short_texts(input_filename, output_filename)

@@ -184,7 +184,7 @@ import torch
 class MBertLanguageIdentifier(AbstractLanguageIdentifier):
     def __init__(self, args):
         super().__init__(args)
-        model_path = '/itf-fi-ml/home/liseche/exam_IN5550/mbert-based/final_model'
+        model_path = '/itf-fi-ml/home/liseche/exam_IN5550/models/mbert-finetuned4'
         self.tokenizer = AutoTokenizer.from_pretrained(model_path)
         self.model = AutoModelForSequenceClassification.from_pretrained(model_path, num_labels=5)
         self.language_pipeline = pipeline("text-classification", model=self.model, tokenizer=self.tokenizer)

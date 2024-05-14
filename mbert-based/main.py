@@ -1,3 +1,4 @@
+import time
 import torch
 import numpy as np
 from datasets import load_dataset
@@ -6,7 +7,7 @@ from transformers import BertTokenizer, BertForSequenceClassification
 from transformers import AdamW, get_linear_schedule_with_warmup
 from sklearn.metrics import accuracy_score
 from tqdm import tqdm
-from configs import SAVE_DIR, save_count, GOLD_TRAIN_PATH, GOLD_DEV_PATH
+from configs import SAVE_DIR, save_count, GOLD_TRAIN_PATH, GOLD_TRAIN_SHORT_PATH, GOLD_DEV_PATH, GOLD_DEV_SHORT_PATH, SILVER_TRAIN
 
 # Ensure CUDA is available and set the device
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
@@ -17,41 +18,73 @@ def load_jsonl_dataset(file_path):
     return load_dataset('json', data_files=file_path)
 
 # Paths to your datasets
-train_path = GOLD_TRAIN_PATH
-val_path = GOLD_DEV_PATH
-
-# Load and prepare datasets
-dataset = load_dataset('json', data_files=train_path)
-dataset = dataset['train'].train_test_split(test_size=0.2)
-
-# Check if 'label' needs to be generated from 'languages'
-if 'languages' in dataset['train'].column_names:
-    languages = np.unique(dataset['train']['languages'])
-    lang2id = {lang: idx for idx, lang in enumerate(languages)}
-
-    # Function to map languages to ids
-    def add_label_column(examples):
-        examples['label'] = [lang2id[lang] for lang in examples['languages']]
-        return examples
-
-    # Apply the function to map languages to labels
-    dataset = dataset.map(add_label_column)
+train_path = GOLD_TRAIN_SHORT_PATH
+val_path = GOLD_DEV_SHORT_PATH
+MODEL_NAME = 'bert-base-multilingual-cased'
 
 # Initialize the tokenizer for Multilingual BERT
-tokenizer = BertTokenizer.from_pretrained('bert-base-multilingual-cased')
+tokenizer = BertTokenizer.from_pretrained(MODEL_NAME)
 
-# Tokenization function
 def tokenize_function(examples):
     return tokenizer(examples['text'], truncation=True, padding='max_length', max_length=128)
 
-# Apply the tokenization function
-tokenized_datasets = dataset.map(tokenize_function, batched=True)
-tokenized_datasets.set_format(type='torch', columns=['input_ids', 'attention_mask', 'label'])
+def map_language2id(dataset):
+   # Check if 'label' needs to be generated from 'languages'
+    if 'languages' in dataset['train'].column_names:
+        languages = np.unique(dataset['train']['languages'])
+        lang2id = {lang: idx for idx, lang in enumerate(languages)}
 
-# DataLoader
-batch_size = 16
-train_loader = DataLoader(tokenized_datasets['train'], batch_size=batch_size, shuffle=True)
-val_loader = DataLoader(tokenized_datasets['test'], batch_size=batch_size)
+        # Function to map languages to ids
+        def add_label_column(examples):
+            examples['label'] = [lang2id[lang] for lang in examples['languages']]
+            return examples
+
+        # Apply the function to map languages to labels
+        dataset.map(add_label_column)
+    return dataset
+
+if train_path == SILVER_TRAIN:
+    pass
+else:
+    # Load and prepare datasets
+    train_dataset = load_dataset('json', data_files=train_path)
+    val_dataset = load_dataset('json', data_files=val_path)
+
+    # Check if 'label' needs to be generated from 'languages'
+    if 'languages' in train_dataset['train'].column_names:
+        languages = np.unique(train_dataset['train']['languages'])
+        lang2id = {lang: idx for idx, lang in enumerate(languages)}
+
+        # Function to map languages to ids
+        def add_label_column(examples):
+            examples['label'] = [lang2id[lang] for lang in examples['languages']]
+            return examples
+
+        # Apply the function to map languages to labels
+        train_dataset = train_dataset.map(add_label_column)
+
+    if 'languages' in val_dataset['train'].column_names:
+        languages = np.unique(val_dataset['train']['languages'])
+        lang2id = {lang: idx for idx, lang in enumerate(languages)}
+
+        # Function to map languages to ids
+        def add_label_column(examples):
+            examples['label'] = [lang2id[lang] for lang in examples['languages']]
+            return examples
+
+        # Apply the function to map languages to labels
+        val_dataset = val_dataset.map(add_label_column)
+
+    # Apply the tokenization function
+    tokenized_train_datasets = train_dataset.map(tokenize_function, batched=True)
+    tokenized_train_datasets.set_format(type='torch', columns=['input_ids', 'attention_mask', 'label'])
+
+    tokenized_val_datasets = val_dataset.map(tokenize_function, batched=True)
+    tokenized_val_datasets.set_format(type='torch', columns=['input_ids', 'attention_mask', 'label'])
+
+    batch_size = 16
+    train_loader = DataLoader(tokenized_train_datasets['train'], batch_size=batch_size, shuffle=True)
+    val_loader = DataLoader(tokenized_val_datasets['train'], batch_size=batch_size)
 
 # Initialize the model for sequence classification
 model = BertForSequenceClassification.from_pretrained('bert-base-multilingual-cased', num_labels=len(lang2id))
@@ -72,6 +105,7 @@ def compute_accuracy(preds, labels):
     return accuracy_score(labels.cpu(), preds.argmax(dim=-1).cpu())
 
 # Training loop
+start = time.time()
 for epoch in range(epochs):
     model.train()
     total_loss, total_accuracy = 0, 0
@@ -119,8 +153,11 @@ for epoch in range(epochs):
     print(f"Average validation loss: {avg_val_loss}")
     print(f"Average validation accuracy: {avg_val_accuracy}")
 
+end = time.time() - start
+print(f"Total training time for model {MODEL_NAME} trained on {train_path} validated on {val_path} is {end} seconds.")
+
 # Save the fine-tuned model and tokenizer
-model_path = SAVE_DIR + "/" + "mbert-finetuned" + save_count
-save_count = save_count + 1
+model_path = SAVE_DIR + "/" + MODEL_NAME + "_" + train_path + "_" + val_path
 model.save_pretrained(model_path)
 tokenizer.save_pretrained(model_path)
+print(f"Saved model to {model_path}")
