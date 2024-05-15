@@ -191,14 +191,16 @@ class MBertLanguageIdentifier(AbstractLanguageIdentifier):
         else:
             print(f"You need to specify a path to use xlmr method!")
             sys.exit(1)
-
         self.tokenizer = AutoTokenizer.from_pretrained(model_path)
-        self.model = AutoModelForSequenceClassification.from_pretrained(model_path, num_labels=5)
+        self.model = AutoModelForSequenceClassification.from_pretrained(model_path, num_labels=4)
         self.language_pipeline = pipeline("text-classification", model=self.model, tokenizer=self.tokenizer)
 
     def identify(self, text: str) -> List[str]:
         predictions = self.language_pipeline(text, max_length=512, truncation=True)
-        label_map = {0: 'da', 1: 'nb', 2: 'nn', 3: 'other', 4: 'sv'}
+        if self.model.config.lang2id:
+            label_map = {value: key for key, value in self.model.config.lang2id.items()}
+        else:
+            label_map = {0: 'da', 1: 'nb', 2: 'nn', 3: 'other', 4: 'sv'}
         predicted_label = predictions[0]['label']
         predicted_language = label_map[int(predicted_label.split('_')[1])]
         print(predicted_language)
@@ -221,6 +223,9 @@ class RobertaLanguageIdentifier(AbstractLanguageIdentifier):
 
     def identify(self, text: str) -> List[str]:
         predictions = self.language_pipeline(text, max_length=512, truncation=True)
+        # if self.model.config.lang2id:
+        #     label_map = {value: key for key, value in self.model.config.lang2id.items()}
+        # else:
         label_map = {0: 'da', 1: 'nb', 2: 'nn', 3: 'other', 4: 'sv'}
         predicted_label = predictions[0]['label']
         predicted_language = label_map[int(predicted_label.split('_')[1])]

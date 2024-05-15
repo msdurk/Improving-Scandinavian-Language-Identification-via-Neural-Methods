@@ -17,7 +17,8 @@ module load nlpl-transformers/4.35.2-foss-2022b-Python-3.10.8
 module load nlpl-nlptools/01-foss-2022b-Python-3.10.8
 module load nlpl-transformers/4.38.2-foss-2022b-Python-3.10.8
 module load nlpl-llmtools/03-foss-2022b-Python-3.10.8
-
+module load nlpl-sentencepiece/0.1.99-foss-2022b-Python-3.10.8
+module load nlpl-torchmetrics/1.2.1-foss-2022b-Python-3.10.8
 cd /fp/homes01/u01/ec-liseche/exam_IN5550/roberta-based
 
 python3 main.py
