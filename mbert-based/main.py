@@ -19,24 +19,20 @@ train_path = SILVER_TRAIN
 val_path = GOLD_DEV_SHORT_PATH
 MODEL_NAME = 'bert-base-multilingual-cased'
 batch_size = 16
-# Initialize the tokenizer for Multilingual BERT
 tokenizer = BertTokenizer.from_pretrained(MODEL_NAME)
 
 def tokenize_function(examples):
     return tokenizer(examples['text'], truncation=True, padding='max_length', max_length=128)
 
 def add_language2id(dataset):
-   # Check if 'label' needs to be generated from 'languages'
     if 'languages' in dataset['train'].column_names:
         languages = np.unique(dataset['train']['languages'])
         lang2id = {lang: idx for idx, lang in enumerate(languages)}
 
-        # Function to map languages to ids
         def add_label_column(examples):
             examples['label'] = [lang2id[lang] for lang in examples['languages']]
             return examples
 
-        # Apply the function to map languages to labels
         return dataset.map(add_label_column), lang2id
     return dataset, lang2id
 
@@ -64,25 +60,19 @@ else:
     train_loader = DataLoader(tokenized_train_datasets['train'], batch_size=batch_size, shuffle=True)
     val_loader = DataLoader(tokenized_val_datasets['train'], batch_size=batch_size)
 
-# Initialize the model for sequence classification
 model = BertForSequenceClassification.from_pretrained(MODEL_NAME, num_labels=len(lang2id))
 model.to(device)
 
-# Optimizer and learning rate scheduler
 optimizer = AdamW(model.parameters(), lr=5e-5)
 
-# Number of training epochs
 epochs = 3
 
-# Total number of training steps is the number of batches * number of epochs
 total_steps = len(train_loader) * epochs
 scheduler = get_linear_schedule_with_warmup(optimizer, num_warmup_steps=0, num_training_steps=total_steps)
 
-# Function to calculate accuracy
 def compute_accuracy(preds, labels):
     return accuracy_score(labels.cpu(), preds.argmax(dim=-1).cpu())
 
-# Training loop
 start = time.time()
 for epoch in range(epochs):
     model.train()
@@ -92,7 +82,6 @@ for epoch in range(epochs):
         batch = {k: v.to(device) for k, v in batch.items()}
         labels = batch.pop('label')
 
-        # Forward pass, calculate loss, backpropagation, and update model weights
         outputs = model(**batch, labels=labels)
         loss = outputs.loss
         loss.backward()
@@ -100,17 +89,14 @@ for epoch in range(epochs):
         scheduler.step()
         optimizer.zero_grad()
 
-        # Accumulate the loss and accuracy
         total_loss += loss.item()
         total_accuracy += compute_accuracy(outputs.logits, labels)
 
-    # Calculate average loss and accuracy for the training epoch
     avg_train_loss = total_loss / len(train_loader)
     avg_train_accuracy = total_accuracy / len(train_loader)
     print(f"Average training loss: {avg_train_loss}")
     print(f"Average training accuracy: {avg_train_accuracy}")
 
-    # Evaluation loop
     model.eval()
     total_val_accuracy, total_val_loss = 0, 0
 
@@ -119,13 +105,11 @@ for epoch in range(epochs):
             batch = {k: v.to(device) for k, v in batch.items()}
             labels = batch.pop('label')
 
-            # Forward pass and calculate loss for validation
             outputs = model(**batch, labels=labels)
             loss = outputs.loss
             total_val_loss += loss.item()
             total_val_accuracy += compute_accuracy(outputs.logits, labels)
 
-    # Calculate average loss and accuracy for the validation epoch
     avg_val_loss = total_val_loss / len(val_loader)
     avg_val_accuracy = total_val_accuracy / len(val_loader)
     print(f"Average validation loss: {avg_val_loss}")
@@ -134,7 +118,6 @@ for epoch in range(epochs):
 end = time.time() - start
 print(f"Total training time for model {MODEL_NAME} trained on {train_path} validated on {val_path} is {end} seconds.")
 
-# Save the fine-tuned model and tokenizer
 model_path = SAVE_DIR + "/" + MODEL_NAME + "_"
 model_path += train_path.split('/')[-1].split('.')[0] + "_"
 model_path += val_path.split('/')[-1].split('.')[0]

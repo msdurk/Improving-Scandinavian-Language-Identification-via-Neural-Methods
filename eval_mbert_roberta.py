@@ -1,3 +1,8 @@
+"""
+You need to change num_labels manually for the silver sets for evaluating on the 
+mbert and roberta based models because the silver training set did not contain
+the "other"-label. 
+"""
 import random
 import sys
 import time
