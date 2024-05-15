@@ -12,3 +12,5 @@ Overleaf: https://www.overleaf.com/1332961498qdsqgkbwqtxf#b5fe4d
 OpenLID with gold short: https://docs.google.com/document/d/11U5ZwUdnZSPFx6Dw0n0DP96XFqGAYRvtN0a0OHKCKaA/edit
 
 OpenLID with gold and silver short: https://docs.google.com/document/d/1G0L5Et5bKZbGKRRDnnuj_HR65DQ3_lMJvzHtbTxSfQY/edit
+
+OpenLID with gold big: https://docs.google.com/document/d/1YnOo1dbnMujSEmOjzuzWlmw4hgk3IDjBs7YJPT9fbdA/edit?usp=sharing
