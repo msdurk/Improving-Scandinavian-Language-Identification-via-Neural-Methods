@@ -1,0 +1,668 @@
+Sentence: Og da er jo du et vidunderlig menneske du også.
+Predicted languages: {'da'}, Target languages: {'nb'}
+
+Sentence: 16.30 Superset '92
+Predicted languages: {'nb'}, Target languages: {'other'}
+
+Sentence: Ho pet pasianted!
+Predicted languages: {'nn'}, Target languages: {'other'}
+
+Sentence: En samling kalla fakta
+Predicted languages: {'nn'}, Target languages: {'sv'}
+
+Sentence: Fyr opp grillen i god tid.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+
+Sentence: Gå inn på internett og søk på « Dyslexia Research Trust » .
+Predicted languages: {'nb'}, Target languages: {'nn'}
+
+Sentence: Men tilbake til min situasjon.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+
+Sentence: Kendinden korkan öfke.
+Predicted languages: {'sv'}, Target languages: {'other'}
+
+Sentence: - Vi har gledd oss til dette.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+
+Sentence: 24. juni får Sverre dialyse.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+
+Sentence: «Dommaren kan gjennomføre samtalar med barnet, jf. paragraf 32.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+
+Sentence: De meyster skikkede ouk en anderen; hee selver määk sik up den weag nå Slaumayers.
+Predicted languages: {'nb'}, Target languages: {'other'}
+
+Sentence: - Du ska' snakke med 2. kontor!
+Predicted languages: {'nb'}, Target languages: {'da'}
+
+Sentence: Det er den største kernevåbennedrustning i alliancens historie.
+Predicted languages: {'nb'}, Target languages: {'da'}
+
+Sentence: Deig smaker jo så godt!
+Predicted languages: {'nn'}, Target languages: {'nb'}
+
+Sentence: Røntgen.
+Predicted languages: {'da'}, Target languages: {'nb'}
+
+Sentence: Det er gøy.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+
+Sentence: Turid Backer i Bransjerådet mener at interessen er der.
+Predicted languages: {'da'}, Target languages: {'nb'}
+
+Sentence: Hukommelsestap, eller amnesi, har to former:
+Predicted languages: {'sv'}, Target languages: {'nb'}
+
+Sentence: Ved en feiltakelse hadde et avsnitt blitt borte i papirutgaven.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+
+Sentence: Inflasjon
+Predicted languages: {'sv'}, Target languages: {'nn', 'nb'}
+
+Sentence: Og det er skurken som er trekkplasteret.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+
+Sentence: Andre drøymer om hydrogen.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+
+Sentence: Island kan godt bli medlem; det vil kunne skje relativt fort.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+
+Sentence: «i morgen arrangerer Aalesunds Rederiforening den store fiskeripolitiske debatten i valkampen.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+
+Sentence: Det russiske samfunnet er fullstendig likesælt.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+
+Sentence: Sjølv har han sterilisert seg.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+
+Sentence: 1.30 US Open live
+Predicted languages: {'nb'}, Target languages: {'other'}
+
+Sentence: Tommy Sharif kjøpte Kollentårnet for 270.000 kroner
+Predicted languages: {'nn'}, Target languages: {'nb'}
+
+Sentence: Taklampa har hengt i hovedkvarteret til Marks & Spencer.
+Predicted languages: {'da'}, Target languages: {'nb'}
+
+Sentence: For håpe at kommunene er i stand til å betale lån om 5 år.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+
+Sentence: Èn bom:
+Predicted languages: {'other'}, Target languages: {'nb'}
+
+Sentence: Mid en månd!
+Predicted languages: {'nb'}, Target languages: {'other'}
+
+Sentence: Allerede i døra hører man knitringen.
+Predicted languages: {'da'}, Target languages: {'nb'}
+
+Sentence: * Smrt Odyssea
+Predicted languages: {'nb'}, Target languages: {'other'}
+
+Sentence: Vem får folkpension?
+Predicted languages: {'nn'}, Target languages: {'sv'}
+
+Sentence: Det er de knapt i dag.
+Predicted languages: {'da'}, Target languages: {'nb'}
+
+Sentence: Sluttappell
+Predicted languages: {'sv'}, Target languages: {'nn', 'nb'}
+
+Sentence: Åtvarer:
+Predicted languages: {'nb'}, Target languages: {'nn'}
+
+Sentence: Sjefredaktøren og stadfortredaren hans har fått livvakter.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+
+Sentence: Tidningsklipp DN 30 jan. 1968
+Predicted languages: {'nn'}, Target languages: {'sv'}
+
+Sentence: Nedslidte Levi's jeans til snøre-støvletter fra dengang mor var ung koster 399 kr. - støvletterne 499 kr..
+Predicted languages: {'nb'}, Target languages: {'da'}
+
+Sentence: Året var 1966, Grete var gravid og ville adoptere vekk barnet sitt.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+
+Sentence: Og det gjorde han.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+
+Sentence: Justerer målsettingen
+Predicted languages: {'nn'}, Target languages: {'nb'}
+
+Sentence: Det gjorde han nesten også.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+
+Sentence: Spytta taxisjåføren rett i ansiktet
+Predicted languages: {'nb'}, Target languages: {'nn'}
+
+Sentence: Tenke brød opp mot mat, kanskje einebærbrød eller brød med krekling til julas sild- og fiskeretter.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+
+Sentence: Nimesulid kan være svært skadelig for leveren og er derfor trukket fra markedet i mange land.
+Predicted languages: {'da'}, Target languages: {'nb'}
+
+Sentence: Jeg holdt den gående med en cigaret.
+Predicted languages: {'nb'}, Target languages: {'da'}
+
+Sentence: Varannan
+Predicted languages: {'nn'}, Target languages: {'sv'}
+
+Sentence: Retrograd amnesi.
+Predicted languages: {'sv'}, Target languages: {'nb'}
+
+Sentence: Emil Hegle Svendsen krysset målstreken 4,9 bak Sikora.
+Predicted languages: {'da'}, Target languages: {'nb'}
+
+Sentence: He advanced the theories of Rank and Nexus in Danish in two papers: Sprogets logik (1913) and De to hovedarter af grammatiske forbindelser (1921).
+Predicted languages: {'da'}, Target languages: {'other'}
+
+Sentence: Liderlik nerede ?
+Predicted languages: {'nb'}, Target languages: {'other'}
+
+Sentence: Den seier at «besøkende i Olden, Geiranger og Stavanger uttrykte den største grad av tilfredshet, mens besøk i Trondheim fikk den laveste tilfredsgraden.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+
+Sentence: - Spike Milligan
+Predicted languages: {'nb'}, Target languages: {'other'}
+
+Sentence: Det siste kan journalisten skrive under på at trengs litt trening på.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+
+Sentence: Illusioner er farlige.
+Predicted languages: {'nb'}, Target languages: {'da'}
+
+Sentence: Og det er altså i de helliges disfavør.
+Predicted languages: {'nb'}, Target languages: {'da'}
+
+Sentence: Stua er akkurat passe stor for pappa og Elsa.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+
+Sentence: 22. juli 2008 er det varm sol på Kløfta.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+
+Sentence: Det er tøft.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+
+Sentence: At dei no kan røyste på nett, senkar vonleg terskelen for å delta», sier Jakobsen.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+
+Sentence: Fridomen er viktig for Carl I. Hagen.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+
+Sentence: For første gang i 100 år.
+Predicted languages: {'nb'}, Target languages: {'da'}
+
+Sentence: Variasjonen mellom kommunene er stor.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+
+Sentence: Da Sverre Murud fylte 67 år, så han ingen grunn til å bli pensjonist.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+
+Sentence: Sprengd kapasitet
+Predicted languages: {'nb'}, Target languages: {'nn'}
+
+Sentence: Vi er ikke vant til den ro, jeg prøver at formidle.
+Predicted languages: {'nb'}, Target languages: {'da'}
+
+Sentence: Dagens leder
+Predicted languages: {'nn'}, Target languages: {'nb', 'da'}
+
+Sentence: Har frist til 1. december
+Predicted languages: {'nn'}, Target languages: {'da'}
+
+Sentence: Roger Trettenes synest likevel gåturen kan komme godt med:
+Predicted languages: {'nb'}, Target languages: {'nn'}
+
+Sentence: Det har vakter 24 timar i døgeret.
+Predicted languages: {'da'}, Target languages: {'nn'}
+
+Sentence: Grundorsaken
+Predicted languages: {'nn'}, Target languages: {'sv'}
+
+Sentence: 500 g fullkornspasta
+Predicted languages: {'sv'}, Target languages: {'nn', 'nb'}
+
+Sentence: Den amerikanske storavisa New York Post har sansen for Eva & the heartmaker.
+Predicted languages: {'sv'}, Target languages: {'nn'}
+
+Sentence: Vålerenga imponerte med 10-2-seier over Lørenskog på Jordal Amfi søndag.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+
+Sentence: For at spare skæres antallet ned til 8.000.
+Predicted languages: {'nb'}, Target languages: {'da'}
+
+Sentence: Olika slag av psykofarmaka
+Predicted languages: {'nn'}, Target languages: {'sv'}
+
+Sentence: At Wiesenthal overlevede krigen, er et under.
+Predicted languages: {'nb'}, Target languages: {'da'}
+
+Sentence: "Och heyre, jå!
+Predicted languages: {'nb'}, Target languages: {'other'}
+
+Sentence: Oxford, England:
+Predicted languages: {'other'}, Target languages: {'sv', 'nb', 'nn', 'da'}
+
+Sentence: La hanste briset
+Predicted languages: {'nn'}, Target languages: {'other'}
+
+Sentence: De øger butiksdøden.
+Predicted languages: {'nb'}, Target languages: {'da'}
+
+Sentence: En hovedsak
+Predicted languages: {'da'}, Target languages: {'nb'}
+
+Sentence: Sosialdemokrati anno 1950 er lik teknokrati.
+Predicted languages: {'other'}, Target languages: {'nn'}
+
+Sentence: Der ligger fire skodder plus en hel Camel.
+Predicted languages: {'nb'}, Target languages: {'da'}
+
+Sentence: Hans navn er John Lee Hooker, født 22. august 1917 i bluesmusikkens hjemstat Mississippi.
+Predicted languages: {'nb'}, Target languages: {'da'}
+
+Sentence: 1 ts honning
+Predicted languages: {'sv'}, Target languages: {'nn'}
+
+Sentence: Jo større byene blir Jo mindre blir menneskene.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+
+Sentence: Flora vgs.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+
+Sentence: De fleste må lukke, mener eksperterne.
+Predicted languages: {'nb'}, Target languages: {'da'}
+
+Sentence: Om opprørsrådet har kontroll over styrkene sine i møte med dette vil tida vise, sier Vikør.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+
+Sentence: Det er jo ikke det.
+Predicted languages: {'da'}, Target languages: {'nb'}
+
+Sentence: Ostrov (vet) -
+Predicted languages: {'nb'}, Target languages: {'other'}
+
+Sentence: Jå, wår is de knyptange?
+Predicted languages: {'nb'}, Target languages: {'other'}
+
+Sentence: Parsons (Skot.) 231.
+Predicted languages: {'sv'}, Target languages: {'other'}
+
+Sentence: - Drømme, det er alt sammen drømme.
+Predicted languages: {'nb'}, Target languages: {'da'}
+
+Sentence: I dag produserer Norge 16 TWh bioenergi, eller rundt seks prosent av samla energiproduksjon.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+
+Sentence: For fun ?
+Predicted languages: {'nb'}, Target languages: {'other'}
+
+Sentence: Kvande ringte så sorenskriver Kari Johanne Bjørnøy for å få saksdokumentene.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+
+Sentence: Hukommelsestap.
+Predicted languages: {'sv'}, Target languages: {'nb'}
+
+Sentence: Barnets gråd er hjerteskærende.
+Predicted languages: {'nb'}, Target languages: {'da'}
+
+Sentence: ÆSJ!
+Predicted languages: {'da'}, Target languages: {'nb'}
+
+Sentence: Ta ferg er.
+Predicted languages: {'nb'}, Target languages: {'other'}
+
+Sentence: Det første, spede, tegnet.
+Predicted languages: {'da'}, Target languages: {'nb'}
+
+Sentence: Andre drøymer om hydrogen.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+
+Sentence: Hallucinogener
+Predicted languages: {'nb'}, Target languages: {'sv', 'da'}
+
+Sentence: - Will Rogers
+Predicted languages: {'nb'}, Target languages: {'other'}
+
+Sentence: I tillegg til å skade leveren, kan nimesulid også påvirke hjertet.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+
+Sentence: Torsdag 29. mai 2008 hadde Sverre Murud sin siste arbeidsdag.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+
+Sentence: 1.00 US Open
+Predicted languages: {'nb'}, Target languages: {'other'}
+
+Sentence: Glansede magasinsider kjenner ingen alder.
+Predicted languages: {'da'}, Target languages: {'nb'}
+
+Sentence: Borrar hål
+Predicted languages: {'nn'}, Target languages: {'sv'}
+
+Sentence: Skudd i mørket
+Predicted languages: {'da'}, Target languages: {'nb'}
+
+Sentence: I kveld var det storslalåm, og allerede etter førsteomgang ante vi konturene av en ny triumf.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+
+Sentence: Over hundre fotballivrige barn hadde meldt seg på til årets fotballskule i Fyresdal.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+
+Sentence: Upaw temetarer .
+Predicted languages: {'nb'}, Target languages: {'other'}
+
+Sentence: - Stiklenes gribi?
+Predicted languages: {'nb'}, Target languages: {'other'}
+
+Sentence: Alle som én er en hyldest til Bakken.
+Predicted languages: {'nb'}, Target languages: {'da'}
+
+Sentence: Vefsnavassdraget skal vernes mot kraftutbygging.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+
+Sentence: Han ante ingenting om redsel eller smerte.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+
+Sentence: Det beror på dålig undervisning, bristande resurser.
+Predicted languages: {'nb'}, Target languages: {'sv'}
+
+Sentence: Ålderspension
+Predicted languages: {'nb'}, Target languages: {'sv'}
+
+Sentence: hem en syn famke
+Predicted languages: {'sv'}, Target languages: {'other'}
+
+Sentence: Jeg er jo 29 æ.
+Predicted languages: {'da'}, Target languages: {'nb'}
+
+Sentence: Oppslutnaden var massiv.
+Predicted languages: {'sv'}, Target languages: {'nn'}
+
+Sentence: Klarer Fall :
+Predicted languages: {'sv'}, Target languages: {'other'}
+
+Sentence: 2 raude paprikaer
+Predicted languages: {'other'}, Target languages: {'nn'}
+
+Sentence: Image: Sarvis for Governor.
+Predicted languages: {'nb'}, Target languages: {'other'}
+
+Sentence: Let's face it.
+Predicted languages: {'other'}, Target languages: {'sv', 'nb', 'nn', 'da'}
+
+Sentence: Dårup segden de anderen teager Josua: »Wy wellet dyne knechte syn un dy underdån syn.«
+Predicted languages: {'nn'}, Target languages: {'other'}
+
+Sentence: Spel på kjensler
+Predicted languages: {'nb'}, Target languages: {'nn'}
+
+Sentence: Giftemål
+Predicted languages: {'nb'}, Target languages: {'sv'}
+
+Sentence: Det er Mattilsynet som skal føre tilsyn med kosttilskudd.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+
+Sentence: Der serverte han lutefisk mens han drømte om surdeig, minimalt med gjær, lang hevetid og steking i steinovn.
+Predicted languages: {'da'}, Target languages: {'nb'}
+
+Sentence: Mina tankar snubblade på varann.
+Predicted languages: {'nn'}, Target languages: {'sv'}
+
+Sentence: H.'s forklaring i grundlovsforhøret:
+Predicted languages: {'nb'}, Target languages: {'da'}
+
+Sentence: unde i reg. 2-3:
+Predicted languages: {'da'}, Target languages: {'other'}
+
+Sentence: «Det var ein del yngre som ikkje røysta ved førre val, og eg har snakka med ungdommar som seier det kjennest for høgtidelig å gå inn i ein kommunestyresal eller ein bystyresal.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+
+Sentence: Den er vores egenart og livsstil.
+Predicted languages: {'nn'}, Target languages: {'da'}
+
+Sentence: Utan anger
+Predicted languages: {'sv'}, Target languages: {'nn'}
+
+Sentence: Når PC-en registrerer rørsle, sender han ei alarmmelding til politiet.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+
+Sentence: Attende i tid
+Predicted languages: {'nb'}, Target languages: {'nn'}
+
+Sentence: EKG.
+Predicted languages: {'other'}, Target languages: {'nb'}
+
+Sentence: Politikken må komme etter økonomien over landegrensene.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+
+Sentence: Der Haken :
+Predicted languages: {'nb'}, Target languages: {'other'}
+
+Sentence: Teknoaction
+Predicted languages: {'other'}, Target languages: {'nn', 'nb'}
+
+Sentence: Sent by: Janette Elbertson
+Predicted languages: {'nn'}, Target languages: {'other'}
+
+Sentence: Joke holdt my noch en pår mål utermåte pleserig geselskop as Jaap weader når belangryke klanten mut.
+Predicted languages: {'nb'}, Target languages: {'other'}
+
+Sentence: Tysdag morgon var det ingen som forsov seg.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+
+Sentence: Youssef Boudlal, Reuters/Scanpix
+Predicted languages: {'other'}, Target languages: {'sv', 'nb', 'nn', 'da'}
+
+Sentence: Flot
+Predicted languages: {'sv'}, Target languages: {'da'}
+
+Sentence: Det fremkalder smil.
+Predicted languages: {'nb'}, Target languages: {'da'}
+
+Sentence: Men jäklar da!
+Predicted languages: {'sv'}, Target languages: {'nb'}
+
+Sentence: Men grunniegarlaget stretar imot.
+Predicted languages: {'sv'}, Target languages: {'nn'}
+
+Sentence: Hole er uenig i at Bertelsen er inhabil, og skriver senere et notat om hendelsen.
+Predicted languages: {'da'}, Target languages: {'nb'}
+
+Sentence: 600 FÅR IKKE LOV
+Predicted languages: {'nn'}, Target languages: {'nb', 'da'}
+
+Sentence: - All trafikk som går på fiberkabelen som er broten er ute av drift.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+
+Sentence: Hun virket beroligende i det hun behandlet krisen som en dagligdags affære.
+Predicted languages: {'da'}, Target languages: {'nb'}
+
+Sentence: Det frykter landsbyens pøbel.
+Predicted languages: {'da'}, Target languages: {'nb'}
+
+Sentence: Status:
+Predicted languages: {'other'}, Target languages: {'sv', 'nb', 'nn', 'da'}
+
+Sentence: Likevel køyrer mange av oss stadig rundt med sommardekk.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+
+Sentence: «Nå sover pappa godt.»
+Predicted languages: {'nn'}, Target languages: {'nb'}
+
+Sentence: Hylla av amerikansk storavis
+Predicted languages: {'sv'}, Target languages: {'nn'}
+
+Sentence: Over 1000 evakuert
+Predicted languages: {'nn'}, Target languages: {'nb'}
+
+Sentence: Kidston hadde selt stoffet til andre.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+
+Sentence: Arbejdsgang
+Predicted languages: {'sv'}, Target languages: {'da'}
+
+Sentence: Men Anne Linnet - oh la la."
+Predicted languages: {'other'}, Target languages: {'da'}
+
+Sentence: Eller soveposer og liggeunderlag.
+Predicted languages: {'nn'}, Target languages: {'nb', 'da'}
+
+Sentence: mäger: Aleksander II-st kirjuta.
+Predicted languages: {'sv'}, Target languages: {'other'}
+
+Sentence: - verslaving (roken, alcohol, drugs, gokken)
+Predicted languages: {'nb'}, Target languages: {'other'}
+
+Sentence: 200 g cherrytomatar
+Predicted languages: {'sv'}, Target languages: {'nn'}
+
+Sentence: Dagens leder
+Predicted languages: {'nn'}, Target languages: {'nb', 'da'}
+
+Sentence: Retrograd og anterograd.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+
+Sentence: Anbefaler også artikkelen Why I will never tell my niece she is pretty hos MamaMia).
+Predicted languages: {'nn'}, Target languages: {'nb'}
+
+Sentence: Rundt huset hans er det montert overvakingskamera.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+
+Sentence: Politiet i Fredrikstad har anmodet bombegruppa i Oslo om bistand.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+
+Sentence: Det er for dårligt.
+Predicted languages: {'nb'}, Target languages: {'da'}
+
+Sentence: «Har du sett denne gutten?»?
+Predicted languages: {'nn'}, Target languages: {'nb'}
+
+Sentence: Storseier til Vålerenga
+Predicted languages: {'nn'}, Target languages: {'nb'}
+
+Sentence: Unix' rolle er i serveren.
+Predicted languages: {'nb'}, Target languages: {'da'}
+
+Sentence: Ålderspension
+Predicted languages: {'nb'}, Target languages: {'sv'}
+
+Sentence: Ultralyd.
+Predicted languages: {'other'}, Target languages: {'nb'}
+
+Sentence: Retten kan oppnemne en sakkunnig eller anna eigna person til å hjelpe seg, eller la ein sakkunnig ha samtale med barnet aleine.»
+Predicted languages: {'nn'}, Target languages: {'nb'}
+
+Sentence: Han snakker på inn- og utpust om «reine, naturlege smaker», om meierismør, melk, egg og sjokolade.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+
+Sentence: Send en e-post til 2286@aftenposten.no eller ring Aftenposten.no på 02286.
+Predicted languages: {'da'}, Target languages: {'nb'}
+
+Sentence: Eva Weel Skram (t.v.) får skryt for musikken til duoen Eva & the heartmaker.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+
+Sentence: Folk svelgte gisseldramaet på Dubrovka-teatret og Beslan.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+
+
+Misclassifications count:
+Target: nb
+	da: 20
+	nn: 44
+	sv: 7
+	other: 8
+
+
+Target: nn
+	nb: 31
+	sv: 10
+	da: 1
+	other: 7
+
+
+Target: da
+	nb: 22
+	nn: 6
+	other: 5
+	sv: 2
+
+
+Target: sv
+	nn: 8
+	other: 4
+	nb: 5
+
+
+Target: other
+	nb: 20
+	nn: 4
+	sv: 5
+	da: 2
+
+
+
+# Results for mbert:
+## Loose metrics
+	Loose accuracy: 97.28%
+	Loose macro F1: 96.91%
+	Loose macro MCC: 96.24%
+
+### Per-language metrics
+	nb:
+		F1: 96.06%
+		MCC: 94.61%
+
+	nn:
+		F1: 96.41%
+		MCC: 95.52%
+
+	da:
+		F1: 94.83%
+		MCC: 94.52%
+
+	sv:
+		F1: 98.45%
+		MCC: 98.13%
+
+	other:
+		F1: 98.79%
+		MCC: 98.40%
+
+
+
+## Strict metrics
+	Strict accuracy: 93.86%
+	Overlap F1: 95.94%
+	Strict macro F1: 94.23%
+	Strict macro MCC: 92.95%
+
+### Per-language metrics
+	nb:
+		F1: 93.43%
+		MCC: 90.81%
+
+	nn:
+		F1: 92.77%
+		MCC: 90.80%
+
+	da:
+		F1: 89.04%
+		MCC: 88.28%
+
+	sv:
+		F1: 97.10%
+		MCC: 96.48%
+
+	other:
+		F1: 98.79%
+		MCC: 98.39%
+
+
+
+## CPU inference time
+	Total runtime: 416.44 seconds
+	ms / sentence: 59.70 ms

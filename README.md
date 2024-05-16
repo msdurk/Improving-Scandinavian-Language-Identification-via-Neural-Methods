@@ -14,3 +14,8 @@ OpenLID with gold short: https://docs.google.com/document/d/11U5ZwUdnZSPFx6Dw0n0
 OpenLID with gold and silver short: https://docs.google.com/document/d/1G0L5Et5bKZbGKRRDnnuj_HR65DQ3_lMJvzHtbTxSfQY/edit
 
 OpenLID with gold big: https://docs.google.com/document/d/1YnOo1dbnMujSEmOjzuzWlmw4hgk3IDjBs7YJPT9fbdA/edit?usp=sharing
+
+mBert preds trained on gold_train: https://docs.google.com/document/d/1OwaoWjBInLqS0vh6BZn-Iwd6wxqNuN4zsgmUuqdYm9A/edit
+
+mBert preds trained on gold_train_short (sentences from gold_train under 6 words long): https://docs.google.com/document/d/10bQI4apyJGhRmvpXsQ_s661lbwcdtqKlyTKx4LlLmEA/edit?usp=sharing
+
