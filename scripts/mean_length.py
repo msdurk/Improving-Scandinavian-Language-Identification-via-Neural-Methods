@@ -12,8 +12,9 @@ def mean_sentence_length_from_file(filename):
                     # Extract the part after "Sentence: "
                     start_index = line.index("Sentence: ") + len("Sentence: ")
                     sentence_part = line[start_index:]
+                    words = sentence_part.split(" ")
                     # Append the length of this part to the list
-                    sentence_lengths.append(len(sentence_part))
+                    sentence_lengths.append(len(words))
         
         # Calculate the mean length of the sentence parts
         if sentence_lengths:
