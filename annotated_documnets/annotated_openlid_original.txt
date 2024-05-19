@@ -1,0 +1,2739 @@
+﻿Sentence: Det forutsetter selvsagt at komiteene engasjerer seg på saker som krever det.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Men det hender iblant at folk syng ut, påpeikar Seierstad.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Det er flott at folk set pris på det me gjer, sa Darius Jasmantavicius etter prisseremonien.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Vers Engletere passat il la mer salse,
+Predicted languages: {'nb'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: Huff, ja.
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Aschehoug
+Predicted languages: {'other'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Frivillig.
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Stappfulle esker.
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Familie som historie
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: 50 g gjær eller 1 pakke tørrgjær
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: - Men vi arbeider med det.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+
+
+Sentence: Men borte var dei.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Snart er skatten vår
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Arbeidarhelt eller reaksjonær?
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+Predicted languages: {'nn'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: - Men fosteret overlevde.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: «Jeg har hatt spillere oppigjennom åra som var single og leste bøker.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Fåfengt.
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: ... Er ofte det beste.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Vakuum
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Kliner til for endring
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Gråt.
+Predicted languages: {'sv'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Sto på kommunestyrelista til SV til valget.
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Jubilant i spagat
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Metoden er brutal.
+Predicted languages: {'da'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Folk i Hellas kan ha fantastiske liv.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Avfallsproblem i Haukeli
+Predicted languages: {'sv'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: - Må hive meg uti det
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: I tillegg er han «fordømmende» og spiller «kynisk «med fordommer».
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Iran, Danmark og Saudi-Arabia er eksempler på land med lignende styringsmodeller.
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Distriktnorge er kjent for å vere bakpå og intolerant.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: 1,5 liter deigvæske
+Predicted languages: {'da'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Intel klagt und klagt ...
+Predicted languages: {'da'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: Kulturkonservatisme
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: «Jeg har ingenting å ha på meg»?
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Skrive.
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Hockeyutstyr:
+Predicted languages: {'sv'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: iþ si fram þammei innatiddja ni swaif bikukjan fotuns meinans
+Predicted languages: {'nn'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: Men når det gjeld tempo og omfang er politikken viktig.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Hovedlinjene i norsk utenrikspolitikk vil ligge fast.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: kilder/metode:
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: He, he, he.
+Predicted languages: {'other'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Støtte fra velgerne.
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Andre aktiviteter:
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Og det har skjedd.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: I dag grilla vi kyllingbryst, enkelt og greitt.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Entret en sa veie,
+Predicted languages: {'nb'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: Jonsson-Kälvesten i 222 Stockholmspojkar.
+Predicted languages: {'other'}, Target languages: {'sv'}
+Error: feil språk
+
+
+Sentence: Vikarstyre.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Usikker
+
+
+Sentence: La Tafjordbygda leve
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: - Til fest?
+Predicted languages: {'nb'}, Target languages: {'da'}
+Error: tvetydig
+
+
+Sentence: Fardal fire år:
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Og til Arne Sandnes og de andre politikerne i Norddal kommune:
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Vi er Hellas.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Jeg går til Museo del Castello Sforzesco i Milano.
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Det er liten tvil om at Gats rører ved veldig viktige saker, som helse, utdanning, infrastruktur.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Og så bli kasta ut av skogsleiren då, ler Solveig.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: - Nei, dei fire store matvarekjedene kontroller 99 prosent av varehandelen.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Grovbrød
+Predicted languages: {'da'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Pikante boller på suppen?
+Predicted languages: {'nb'}, Target languages: {'da'}
+Error: tvetydig
+
+
+Sentence: Mange opne dører
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Hos mamma eller pappa?
+Predicted languages: {'sv'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Ombudsmannen
+Predicted languages: {'sv'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Ute.
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Polarhelt:
+Predicted languages: {'da'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Smiler.
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: På lengre sikt er målet å eliminere det.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Gavepakke.
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Den historiske trenden er utvetydig, understrekar Hersoug.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Så lenge det er sol og varme, er folk glade til, fortel avdelingsleiaren.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Men vi har mange spørsmål som vi ønskjer svar på.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: et ele sanet les forsenez,
+Predicted languages: {'nb'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: Ut over dette kan miljørelevante regler være fastsatt i instruks for virksomheten til Forsvaret og Vervarslinga for Nord-Norge.
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Justin kunne si til meg:
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: "Det er at være under konstant pres.
+Predicted languages: {'nb'}, Target languages: {'da'}
+Error: feil språk
+
+
+Sentence: Eirik Flæthe (til venstre)
+Predicted languages: {'da'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Eventuell bergverksdrift hører under Bergmesteren på Svalbard, jf forskrift 23 april 1976.
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Ordfører Arne Sandnes gikk ut i media og talte for helårsvei mellom Tafjord og Grotli.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: - Får du lov at bringe programmet senere?
+Predicted languages: {'nb'}, Target languages: {'da'}
+Error: feil språk
+
+
+Sentence: Titter oppi.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Vi har deregulert telesektoren.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: TILKNAPPET
+Predicted languages: {'nb'}, Target languages: {'da'}
+Error: feil språk
+
+
+Sentence: Spise og drikke:
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: «Vi må kjøpe blomster, vi må kjøpe blomster».
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Kyllingkjøtdeig er ofte på tilbod, og er proteinrik og god mat.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Der også.
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Ho i brividi
+Predicted languages: {'nn'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: 57833300 www.firda.no
+Predicted languages: {'other'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: « ... where do we go when we die?
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: data
+
+
+Sentence: Svar til Bekkemellem Orheim
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Linux statt NetWare
+Predicted languages: {'nn'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: Medmenneske i skogsleiren
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Intranet-Plattform von Novell
+Predicted languages: {'sv'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: Ville protestere.
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: non lubet fugere
+Predicted languages: {'da'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: Til dømes; når får vi neste løn?
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Oppfølger:
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Finn Gustavsen satt på Stortinget fram til valget i 1969.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: - Oi oi oi!
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Det er dit vi skal, om NHO får gjennomslag.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: WTO-låsen
+Predicted languages: {'da'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Citat slut!
+Predicted languages: {'other'}, Target languages: {'da'}
+Error: feil språk
+
+
+Sentence: 11.4.1 Behovet for regler
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Lang kjole i et cocktailparty er no-no.
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: På vilje og mod, ro og omtanke.
+Predicted languages: {'nb'}, Target languages: {'da'}
+Error: feil språk
+
+
+Sentence: Men fyrst og fremst må vi få hjula i gang att så raskt råd er.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: «Jeg mener disse rutinene er forsvarlige sett i et perspektiv om god saksbehandling.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Elles var det i svært god stand.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Til sjukehus etter trafikkulykke
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: To tolker
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: amd i like 2 guys
+Predicted languages: {'nn'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: Frp og Høyre.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: La brøda kolne på rist.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Og politiet.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Absolutt.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Færøyenes beste restaurant, Koks, ligger i Hotel Føroyar i Tórshavn.
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Nord-Korea fornærmet Hillary Clinton
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Friskoler
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Sammen med lua og halsen.
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Må de virkelig dét?
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+Predicted languages: {'nn'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: «Mamma elsker deg.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: « ... born again, born again, one day I know I'll feel strong again ...»
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: data
+
+
+Sentence: Best YET!
+Predicted languages: {'nb'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: Blir etterforska etter uventa dødsfall
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Smør til steiking
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Og hun var medlem av Den Norske Nobelkomite i tolv år.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Spenstig initiativ
+Predicted languages: {'sv'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Lei ansvarsfraskrivelse:
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: «The Herminator» måtte se seg slått med 45 hundredeler i mål.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: BKA-Internetstreife meldet Erfolge
+Predicted languages: {'nb'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: Så om det er fleire som har lyst til å bli med oss i Raude Kross, er det bare å ta kontakt, seier Hilmar Frantzen.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: No har vi fått nok av kulda
+Predicted languages: {'sv'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Hun var medlem av samferdselskomiteen i alle sine fire perioder på Stortinget.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Innimellom til New York.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: 3.5.3.1 Problemstilling
+Predicted languages: {'da'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Men ingenting er klart enno.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Pris for dobbeltrom varierer med sesong.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Omkring dette hospital dannedes en adelig ridderorden, som dels deltog som krigere i Korstogene og dels hjalp syge og fattige pilgrimme.
+Predicted languages: {'nb'}, Target languages: {'da'}
+Error: feil språk
+
+
+Sentence: Det er adressert til utenriksminister Hugues-Bernard Maret.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: 250 g grov, sammalt rug
+Predicted languages: {'da'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: I tillegg anbefales Áarstova, sushirestauranten Etika og restaurant Hafnia.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: 18 år.
+Predicted languages: {'sv'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Vil omfatte alle
+Predicted languages: {'da'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Burde me følgje Epiktets råd her?
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Vart sendt til Haukeland med luftambulanse.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: 30. juli 1996:
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Tragedie
+Predicted languages: {'other'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Jan Mayen-lovens regler gjelder for øyas land- og sjøterritorium.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: What lies beyond, and what lay before?
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: data
+
+
+Sentence: Slik som vårsko i str. 24.
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: PCI drängt in den VME-Markt
+Predicted languages: {'sv'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: Saka vil bli følgt opp av politiet i Flora.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: - Dette kom godt med for mange.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Odd-Bjørn Hjelmeset skryt av 18 år gamle Trygve Henden Gaasø etter 5. plass på stafetten i dag.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Hanna Kvanmo var stortingsrepresentant for SV fra 1973 til 1989 og parlamentarisk leder i tolv år fra 1977.
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Dette skal dreie seg om både DNA-spor og fingeravtrykk.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Det ville vera katastrofalt.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Skal omsorg, utdanning, transport og forsking bli forretning og profitt?
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Ull er stikkordet.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Norsk i 85 år
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Mult grant aveir vos en faz amener E.XX. hostages,
+Predicted languages: {'nb'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: Foto: Martin Biuw, Norsk Polarinstitutt
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: - Fortvilande
+Predicted languages: {'sv'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Skjerpet tone
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Sov.
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Peter Tatchell går snart ut i London-natta.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Thronfolger für Vektorgrafikboliden CorelXara
+Predicted languages: {'sv'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: ele osted fantosme
+Predicted languages: {'da'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: Apatheia
+Predicted languages: {'other'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: 3D-motor
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: «Han var et notorisk rovdyr.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Og tepper med plusstegn.
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Retning T-banen.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Ja.
+Predicted languages: {'other'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Så perfekt.
+Predicted languages: {'sv'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Låten heter «The spirit carries on».
+Predicted languages: {'sv'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Men i spurten var ungguten sjanselaus og måtte ta til takke med 5. plass.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Melonas kan spøke med norske bunader.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Tunnel
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Faktisk.
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Sang og musikk:
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Presidenten:
+Predicted languages: {'other'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: I 20 år har Solveig Kvammen Tveitå (62) besøkt innsette i fangeleiren i Fyresdal.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: 8. Ur A. I. Rabin: Kibbutzchildren - Researchfindings to Date.
+Predicted languages: {'other'}, Target languages: {'sv'}
+Error: feil språk
+
+
+Sentence: # and just try make you just eh do som~ &//
+Predicted languages: {'nn'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: Nordkoreansk talsmann om Hillary Clinton
+Predicted languages: {'sv'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Marketing-Chef verlässt Apple
+Predicted languages: {'sv'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: Jeg har jo et helt walk-in-closet.
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Wired feiert .
+Predicted languages: {'nn'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: Les også:
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Garantia pelo Svenska Handelsbanken .
+Predicted languages: {'sv'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: Regndress i str. 98.
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Eller mamma.
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Men eg er skitnervøs, seier Tone Damli Aaberge til NRK.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Men vi var nøgde med den førre finansministeren, vi.
+Predicted languages: {'da'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Vi vil avslutte oppdraget for norske stabs- og opplæringsoffiserer i Irak.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Også når det gjelder aktivitetsnivå, er det store forskjeller mellom Svalbard og Jan Mayen.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Møt motedronninga i Portrettet.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Kontrollfrikar
+Predicted languages: {'sv'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Tenk om vi hadde fått tunnel mellom Tafjord og Norddal.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Telekom vermietet Online-Kiosk
+Predicted languages: {'nn'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: 2007: 21 februari
+Predicted languages: {'sv'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: Grafik: Garantikvotienten
+Predicted languages: {'sv'}, Target languages: {'da'}
+Usikker
+
+
+Sentence: et rom. 11-33:
+Predicted languages: {'nb'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: - Og det trur du Tyskland går med på?
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: - Det er ganske stor sløsing med ressursar og midlar som vi kunne ha brukt på andre ting.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: - Inntrykka er sterke.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: I styremøte søndag
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: - Eg er litt nervøs, innrømmer Joakim.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Det lukter Anna.
+Predicted languages: {'sv'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Versjonen vi testet er den oppdaterte 9.1-utgaven.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: En gaffel.
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Men kva var det som var komme ut?»
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Går mot stua.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Selv kaller Espen seg « Ironman » .
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Det er jo jævla keisamt temamessig.
+Predicted languages: {'da'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Foto Bent Are Iversen
+Predicted languages: {'other'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: men er det demokrati?
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: PERSONELLER ÇOK SURATSIZDI .
+Predicted languages: {'da'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: Det er mange lagnader her i livet, slår Solveig fast.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: FrontPage 2000 kommt 1999
+Predicted languages: {'da'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: Ivan Alvarado, Reuters/Scanpix
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Ved kgl res 25 august 1994 ble det administrative ansvar for øya, herunder for den lokale miljøvernforvaltning, overført til fylkesmannen i Nordland.
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: 8 salatblad, eg brukte hjertesalat
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Fra fin hagefest til finanser.
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Uansvarlig.
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: _ _ _ _
+Predicted languages: {'nn'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: - Ja?
+Predicted languages: {'nb'}, Target languages: {'da'}
+Error: tvetydig
+
+
+Sentence: Solveig fortel at det i dag er gode materielle forhold i skogsleiren.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: et rom. 1-20:
+Predicted languages: {'da'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: Brei front
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: For det første:
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: CorelDraw exportiert XML-Vektorgrafiken
+Predicted languages: {'sv'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: Inte mannen.
+Predicted languages: {'other'}, Target languages: {'sv'}
+Error: feil språk
+
+
+Sentence: surge et sterne tibi
+Predicted languages: {'nb'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: - Dette sitatet må nettopp forståast i lys av det å bli autark.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Frustrasjon på tinget
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: 4 ss italiensk salat eller coleslaw
+Predicted languages: {'da'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Leste Karl Marx.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: - Knalløp av Trygve
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Telefontenester, advokattenester, datatenester, helsetenester, utdanning, forsking, bilverkstad, flyfrakt og kaffebar.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Den klub mente Lars' far var sagen.
+Predicted languages: {'nb'}, Target languages: {'da'}
+Error: feil språk
+
+
+Sentence: - Ja, det var faktisk påfallande mange!
+Predicted languages: {'sv'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Halvorsen.
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: - Sat du bakerst, heldt du på å fryse i hel, fortel Solveig.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Så overlèt vi til internasjonale revisjonsselskap å driva inn skattane.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Oljesøl og jernskrap
+Predicted languages: {'da'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Flittige eldsjeler
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: POLITI-PENGEAFPRESNING
+Predicted languages: {'sv'}, Target languages: {'da'}
+Error: feil språk
+
+
+Sentence: Suske en Wiske
+Predicted languages: {'nb'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: Strør sand på EUs lover
+Predicted languages: {'da'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Generelt er faste kulturminner fra før 1900 fredet (§ 2 jf § 1).
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: och ‘s urrainn dhut
+Predicted languages: {'sv'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: Det kan imidlertid dispenseres fra dette kravet (§ 7 første ledd).
+Predicted languages: {'da'}, Target languages: {'nb'}
+Usikker
+
+
+Sentence: Politikk
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Ideologiske eller tekniske stengsel for dette fører til sløsing med ressursar, proklamerer NHO-direktøren.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: - Ja, IMF pressa Argentina hardt.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Borbet på synfaring
+Predicted languages: {'da'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Varm opp steikepanna, og ha i smør.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Ja, delvis.
+Predicted languages: {'sv'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Det demokratiske problemet i dette er etter vår mening vår manglende deltakelse i det forberedende grunnlagsarbeidet med direktivene i Bruxelles.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Men det er kritisk der han ligger på Haukeland.
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Les:
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Men det finnes ikke noe «du», sa Karl Ove Knausgård i det svenske radioprogrammet «Sommar i P1» 14. august.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Illustrasjonsfoto
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: På nettet lever Justin Fashanu videre.
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Kronprins Frederik og prins Joachim, der i denne weekend kommer hjem fra Malaysia, hvor de har været på ferie med deres far prins Henrik, skal også med til ballet.
+Predicted languages: {'nb'}, Target languages: {'da'}
+Error: feil språk
+
+
+Sentence: Erna Solberg er en ryddig politiker.
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: _ _ _ _ _ _ _
+Predicted languages: {'nn'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: Generalstreik.
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Så ringjer professoren sekretæren for å få inn statistikken på bordet.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Natur- og havmiljøene i nord er svært sårbare.
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Handbok i sinnsro
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Det er nærmere bestemmelser om jakt- og fangstmetoder (§§ 7-8).
+Predicted languages: {'da'}, Target languages: {'nb'}
+Usikker
+
+
+Sentence: «Foreningens formål er at samle kvinder til diskussion om tidens spørgsmaal, særlig de, som angaar kvindens stilling.»
+Predicted languages: {'da'}, Target languages: {'nn'}
+Error: data
+
+
+Sentence: et osted fantosme.
+Predicted languages: {'da'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: Representativt demokrati?
+Predicted languages: {'sv'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Familien i salen
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Betrakte.
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: - Andredagen var han så morsk!
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Kursrally an den internationalen Börsen
+Predicted languages: {'sv'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: Mobiles Internet i-mode boomt
+Predicted languages: {'nn'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: Reuters
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Hadde de enda valgt «Blue Eyes Crying in the Rain» ...
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Tre på rad?
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Vimsete mann kan ha kosta 1 million kroner
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Ut og feste.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Acotec meldet Konkurs an
+Predicted languages: {'da'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: Fotelle om.
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: 5.
+Predicted languages: {'other'}, Target languages: {'da'}
+Error: feil språk
+
+
+Sentence: Eller skade mennesker og dyr?
+Predicted languages: {'nb'}, Target languages: {'da'}
+Error: tvetydig
+
+
+Sentence: Deres kroppe ligger i hvert fald langt fra 80'ernes bøfdrenge Sylvester "Rambo" Stallone og Arnold Schwarzenegger.
+Predicted languages: {'nb'}, Target languages: {'da'}
+Error: feil språk
+
+
+Sentence: - Aha, norsk journalist.
+Predicted languages: {'sv'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Er Køvenhavner
+Predicted languages: {'nb'}, Target languages: {'da'}
+Error: feil språk
+
+
+Sentence: Foran TV-skjermen følger de fotballinteresserte Manchester Uniteds bitre ferd mot undergangen i europacupen.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Datensammler und Kundenjäger
+Predicted languages: {'sv'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: 4 grove tortillalefser
+Predicted languages: {'da'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Det som er viktig er tenestene.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Her er han med matmor Berit Hårlau.
+Predicted languages: {'da'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: I 1896 skipa Marie Høeg Hortens selskabelige Diskussionsforening.
+Predicted languages: {'da'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Og energisektoren.
+Predicted languages: {'da'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Det er lørdag middag.
+Predicted languages: {'nb'}, Target languages: {'da'}
+Error: feil språk
+
+
+Sentence: De synger:
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: "De kan ikke vælte Jeltsin.
+Predicted languages: {'nb'}, Target languages: {'da'}
+Error: feil språk
+
+
+Sentence: Pappa Tore hadde fått høner til 40-årsdagen.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Foto Katrine Sele
+Predicted languages: {'other'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Også flere design og kunstforretninger
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Tenestene er over alt.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Men i 1814 hadde ingen høyrt om EØS-avtalen.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Borten-biografi.
+Predicted languages: {'sv'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: fakta/tall-kilder:
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Der stod ingen steder i Mai Buchs eksamenspapirer, at hun skulle havne på et teater.
+Predicted languages: {'nb'}, Target languages: {'da'}
+Error: tvetydig
+
+
+Sentence: Men private selskap skal ha profitt.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Klare.
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Fotografiet hadde stor kraft, det kunne nå langt utover og bidra til å skape nye rollemodellar.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Det skal vi ta vare på, og det skal vi bygge videre på.
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Skepsis
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Avtalen inkluderte ingenting om å presse Nord-Korea på temaer som landets atomprogram.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Palestinaskjerf, lilla anorakk og fotformsko.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: <liste xml:base="/ix/events/"> <listenpunkt> <link xlink:type="simple " xlink:href="web.html">WWW-Veranstaltung</link> </listenpunkt> </liste>
+Predicted languages: {'nn'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: Får dø hjemme:
+Predicted languages: {'da'}, Target languages: {'nb'}
+Usikker
+
+
+Sentence: En statsbegravelse skal heller ikke være det eneste, man kan tilbyde mafiaens modstandere, lyder det ironisk om politikernes og politichefens deltagelse i tirsdagens begravelse.
+Predicted languages: {'nb'}, Target languages: {'da'}
+Error: feil språk
+
+
+Sentence: - Smart og taktisk
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: -Sover du enda, lo han.
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: FN-sporet
+Predicted languages: {'da'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Illustrasjonsfoto.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Misunne.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Eller på norsk:
+Predicted languages: {'da'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Vinterlykke:
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Passelig klar.
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Elementært.
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Pappa Tore rapporterer på tekstmelding til Espens onkel i Stavanger:
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Mediedekning og organisasjonsarbeid.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: - Dette ser stygt ut.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: __ _ _
+Predicted languages: {'nn'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: No gler 20-åringen seg til å delta i delfinalen i Bodø.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Reguleringer herunder fredning og kvotebegrensninger kan vedtas med hjemmel i § 4 med virkning for både norske og utenlandske fartøyer (jf § 1 fjerde ledd).
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Det problemet får en ikke løst så lenge vi er utenfor EU.»
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: data
+
+
+Sentence: Så kom rappen ut på gata, blant svarte, fattige ungdommar.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Du må ta den for det den er, ei bok som skal inspirere.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: 葺堡障
+Predicted languages: {'da'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: "Det er ikke overdrevet, hvis telefonen ringer 50 gange i timen.
+Predicted languages: {'nb'}, Target languages: {'da'}
+Error: feil språk
+
+
+Sentence: Sponheim.
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Holler Str. 126
+Predicted languages: {'da'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: Her er noen arrangører: visitfaroeislands.com, coastzone.fo, atlantic.fo, faroeislands.com, tora.fo, 62n.fo, greengate.fo
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: - Der er det bål og kaffi.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: 2008: 6 februari
+Predicted languages: {'sv'}, Target languages: {'other'}
+Error: data
+
+
+Sentence: Shopping:
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: OK, så han er dyktig, men kva så med påstandane om at Eminem er samfunnskritisk?
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Mystikk
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Også franske Claude Cahun (1894 - 1954) var oppteken av kjønnsroller og seksualitet i virket sitt.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Forsikringsselskapet lar henne dra til Disneyland.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: "No Fuel Left For The Pilgrims" har solgt knap en halv million eksemplarer verden over.
+Predicted languages: {'nb'}, Target languages: {'da'}
+Error: feil språk
+
+
+Sentence: Hvor er du grov.
+Predicted languages: {'nb'}, Target languages: {'da'}
+Error: feil språk
+
+
+Sentence: [ «Battles» :
+Predicted languages: {'other'}, Target languages: {'nn'}
+Error: data
+
+
+Sentence: Har du friske urter, så dryss på litt av det og.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Korresponderar
+Predicted languages: {'sv'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Sharia
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: For å syna at vi tek dette ansvaret, må vi prioritera rett nasjonalt.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Vareproduksjonen blir bygd ned.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Det er lang tid siden."
+Predicted languages: {'nb'}, Target languages: {'da'}
+Error: tvetydig
+
+
+Sentence: Tromsø (VG Nett)
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+Predicted languages: {'nn'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: Hallgeir H. Langeland (SV):
+Predicted languages: {'other'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+Predicted languages: {'nn'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: Den aktuelle ytringa havarerer.
+Predicted languages: {'da'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Og andre.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Nytt program og nye statsråder er på plass.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: - Den største skilnaden er klassemessig.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Kontaktbörse Internet :
+Predicted languages: {'sv'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: Flogen med luftambulanse
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Det er som når Bataille skriv om Genets romantisering av vondskapen.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: - Staten må så langt råd er, privatiserast.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: I tillegg har gitaren en kjekk knapp for star power.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Er det bra?
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Etter 31. mars blir det full fart i Gats-prosessen.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Ordningen bør revideres.
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Israel var redd for fredsavtalen med Egypt.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Willie Nelson med «On the road again»?
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: «Hvor Ægteskaberne aftager, der tiltager de løse Forbindelser og den unaturlige Utugt», skal presten Thorvald Klaveness frå Sandar i Vestfold ha sagt - i hortensavisa «Gjengangeren».
+Predicted languages: {'da'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Loser " .
+Predicted languages: {'da'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: # no be God >+ ehn told dem //
+Predicted languages: {'da'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: 2009: 25 februari
+Predicted languages: {'sv'}, Target languages: {'other'}
+Error: data
+
+
+Sentence: «Rock Band 2» eller «Guitar Hero: World Tour»?
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Voilà!
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: data
+
+
+Sentence: Utan tillit
+Predicted languages: {'sv'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: - Ja, det er det.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Den reduktive fysikalismen gjer nettopp dette.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Bevare.
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: «Kids Wanna Rock»
+Predicted languages: {'nn'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: Ikke en frynse på hendes gulvtæppe var kommet i uorden.
+Predicted languages: {'nb'}, Target languages: {'da'}
+Error: feil språk
+
+
+Sentence: Ikke bare i Tafjord, men også i Fjørå, Valldal, Norddal og Eidsdal.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Såg nye moment
+Predicted languages: {'da'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: 500 g grov sammalt kveite
+Predicted languages: {'other'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Så mitt spørsmål til representanten Onarheim er:
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Det kan fungere bra, som her:
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Du kødder.
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Joh: "Kamala's Bok" by Inger Edelfeldt
+Predicted languages: {'nb'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: 3.5.3.6 Nordisk jamføring
+Predicted languages: {'da'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Kollegaer
+Predicted languages: {'da'}, Target languages: {'nb'}
+Usikker
+
+
+Sentence: - Epiktet skriv:
+Predicted languages: {'sv'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Et par.
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Liker Disney:
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+Predicted languages: {'nn'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: Mor og kalv:
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Til orgie hos Søren
+Predicted languages: {'nb'}, Target languages: {'da'}
+Error: feil språk
+
+
+Sentence: For det andre:
+Predicted languages: {'da'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Ja, det er bra.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Stakk av
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Apropos ham:
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Det går mot større private innslag.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Eg er overbevist om at det er positive ting også, det er det hos alle menneske, seier Solveig.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: OTEL KONUM OLARAK MÜKEMMEL .
+Predicted languages: {'da'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: Kona sendte Clinton til Nord-Korea
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Hun har spist P-piller i mange år.
+Predicted languages: {'nb'}, Target languages: {'da'}
+Error: tvetydig
+
+
+Sentence: Ja, eller flow som vi kallar det.
+Predicted languages: {'sv'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Foto: Bjørn Kraft, Norsk Polarinstitutt Selskap:
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Og kemnerkontoret.
+Predicted languages: {'da'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Mer.
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Bevarer.
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: - og den hele Camel koster ikke ekstra.
+Predicted languages: {'nb'}, Target languages: {'da'}
+Error: tvetydig
+
+
+Sentence: Pension?
+Predicted languages: {'other'}, Target languages: {'sv'}
+Error: feil språk
+
+
+Sentence: Noveller
+Predicted languages: {'da'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: okay i 'd like to fly from denver to pittsburgh
+Predicted languages: {'nb'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: Aggresjon og alvor
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: 28 mennesker i alt i et lille telt.
+Predicted languages: {'nb'}, Target languages: {'da'}
+Error: feil språk
+
+
+Sentence: Han er veldig flink.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Det er nok det, ja.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Då var det hon som var mest yrkesverksam.
+Predicted languages: {'nn'}, Target languages: {'sv'}
+Error: feil språk
+
+
+Sentence: Dette er enkel økonomi.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Fullstendig.
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Men Solveig har aldri opplevd at få er innom for å snakke.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Kanskje er det nøkkelen til karakteren si fascinasjonskraft.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Revehi.
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Må si at det var god melding.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Da Hustadmarmor sammen med Istad og Tafjord Energi la fram sine planer om gasskraftverk i Fræna, landet Jacobsen på et nølende ja-standpunkt.
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Skal vi ha grunnskuledrift for profitt?
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Hvor henne?
+Predicted languages: {'nb'}, Target languages: {'da'}
+Error: tvetydig
+
+
+Sentence: Gler seg
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Fordel kyllingkjøtdeigen over fyllet, brett opp den nederste delen av lefsa og brett til slutt opp sidene.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Bra for Telenor?
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Tvisynt ombudsmann
+Predicted languages: {'sv'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: DET NYTTER
+Predicted languages: {'nb'}, Target languages: {'da'}
+Error: tvetydig
+
+
+Sentence: Han får folk til å føle seg «mislykket» og «mindreverdige».
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Her er trommesettet til «Rock Band 2».
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Året rundt!
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: PS!
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Det er enkelt og konkret, men krydra med metaforar innimellom.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Den anden bane, Ørestadsbanen, skal gå langs Islands Brygge og vest om universitet til Tårnby.
+Predicted languages: {'nn'}, Target languages: {'da'}
+Error: feil språk
+
+
+Sentence: HP drängt in den ECommerce-Markt
+Predicted languages: {'sv'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: Å være selvstyrt eller statsstyrt.
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Kan få snus-forbod og Slit du med å finne denne i butikken?
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Alle kom naturligvis til "in-stedet" i bil, og ifølge den legende, som nu er under opbygning om byens nye stolthed, har Hot Springs hverken før eller siden set en Buick med så store halefinner som unge Clintons
+Predicted languages: {'nb'}, Target languages: {'da'}
+Error: feil språk
+
+
+Sentence: I arresten i Sogndal
+Predicted languages: {'other'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Is anything certain in life?»
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: data
+
+
+Sentence: Men før den tid var han inkarneret alkoholiker i over tyve år.
+Predicted languages: {'nb'}, Target languages: {'da'}
+Error: feil språk
+
+
+Sentence: Rommet er ti kvadratmeter.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Rein i snittet og blank.
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Verdensarv.
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Kjøper du den?
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: - Det anses vedtatt.
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Espen er tilbake på rehabiliteringssenteret på Nordås.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Både Albania og Kroatia bidrar allerede til den NATO-ledede ISAF-styrken i Afghanistan.
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Isbjørn, polarrev, lomvi, kortnebbgås og rype (om den forekommer) er totalfredet.
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Noe i lufta:
+Predicted languages: {'sv'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Teknoalderen sin Frankenstein
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Sun verklagt Microsoft
+Predicted languages: {'nn'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: - Kor lang tid vil det taka å få Hellas på fote?
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: NATO har fått to nye medlemsland
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: i satisfy your appetitie for lovin.
+Predicted languages: {'nb'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: Altfor mange strevar med å få stadig meir under stadig sterkare kontroll.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Omkring Nordkalotten som omkring Ækvator.
+Predicted languages: {'sv'}, Target languages: {'da'}
+Error: feil språk
+
+
+Sentence: Artikulasjon.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Handlingsrom.
+Predicted languages: {'sv'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Adobe verklagt Macromedia
+Predicted languages: {'nn'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: For det andre:
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Espen:
+Predicted languages: {'other'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Foto Bent Are Iversen Firda Media PB.160, 6801 Førde.
+Predicted languages: {'other'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Ja det er jo rap!
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Strid:
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: - Konstitusjonelt er saka klar:
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: I år skal ha stå aleine på scena.
+Predicted languages: {'da'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: - Skyd den! foreslår et barn fra et krat.
+Predicted languages: {'nb'}, Target languages: {'da'}
+Error: feil språk
+
+
+Sentence: Han er far til Ofer, mens den siste i ungdomstrioen, Llan, er gift med Ora.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Vi finn Tor Hersoug i 7. etasje i NHO-bygget.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Naturvernforbundet har gått ut i Sunnmørsposten og lagt ned veto mot all berøring av Tafjordfjella.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Alt det.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Amper stemning i Florø
+Predicted languages: {'da'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: 200 g kveitekli
+Predicted languages: {'other'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: God helg!
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: - Nettopp.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Han skal gå etter den lokale rikmannen.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Presidenten:
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: PRIS: 219.996 kr..
+Predicted languages: {'other'}, Target languages: {'da'}
+Error: feil språk
+
+
+Sentence: Men vi kjenner jo godt til dei store sakene som blir diskuterte i EU, som tenestedirektivet.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: I «Rock Band 2» er det et godt utvalg av låter.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: SV godtar gasskraft med renseteknologi.
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Så klart.
+Predicted languages: {'sv'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Fardal røyk tidlig ut av «Skal vi danse» i 2006.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Og Aftenposten leverer, også her.
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Solveig Kvammen Tveitå har ei 80 prosent stilling som helsesyster i Fyresdal.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: RUBRIK
+Predicted languages: {'other'}, Target languages: {'da'}
+Error: feil språk
+
+
+Sentence: 3.5.3.4 Merknader i Norsk i hundre!
+Predicted languages: {'sv'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Det er den du viser fram.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: NHO med Gats i blikket
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: et ele valt mult a haunt de femme duner,
+Predicted languages: {'da'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: Volkswagen fördert Musiker online
+Predicted languages: {'sv'}, Target languages: {'other'}
+Error: feil språk
+
+
+Sentence: Kulturen skal også tilgodeses i Ørestaden.
+Predicted languages: {'nb'}, Target languages: {'da'}
+Error: feil språk
+
+
+Sentence: Ingmar Ljones (KrF):
+Predicted languages: {'sv'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: Stille.
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Mer frukt, men mindre norsk
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Men det er det beste vi har.
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Her er trommesettet til «Guitar Hero: World Tour».
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: Det er februar 2012.
+Predicted languages: {'da'}, Target languages: {'nb'}
+Error: tvetydig
+
+
+Sentence: 3.5.3.5 Språkrådets generelle språkpolitiske ansvar i dag
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Gitarene er så og si identiske, forstatt med fem tilleggsknapper nederst på halsen for gitarsolo-freaks.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: ,
+Predicted languages: {'other'}, Target languages: {'da'}
+Error: feil språk
+
+
+Sentence: Flippen strammer til om Peters hals.
+Predicted languages: {'nb'}, Target languages: {'da'}
+Error: feil språk
+
+
+Sentence: Suspendert.
+Predicted languages: {'other'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Populær:
+Predicted languages: {'da'}, Target languages: {'nn'}
+Error: tvetydig
+
+
+Sentence: Beklager, country-fans:
+Predicted languages: {'sv'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: Tusenvis av sider, i teknisk språk og talkodar?
+Predicted languages: {'nb'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: "De øvrige portører har ment, at pengene skulle være delt.
+Predicted languages: {'nb'}, Target languages: {'da'}
+Error: feil språk
+
+
+Sentence: 2 tomatar
+Predicted languages: {'other'}, Target languages: {'nn'}
+Error: feil språk
+
+
+Sentence: (Foto: Bent Rej)
+Predicted languages: {'other'}, Target languages: {'da'}
+Error: feil språk
+
+
+Sentence: Hans tanker var allerede hos den tilskadekomne i Paris, mens Susannes tanker var uhyggeligt nærværende.
+Predicted languages: {'nb'}, Target languages: {'da'}
+Error: feil språk
+
+
+Sentence: Høyre.
+Predicted languages: {'nn'}, Target languages: {'nb'}
+Error: feil språk
+
+
+Sentence: et iob 8:
+Predicted languages: {'nb'}, Target languages: {'other'}
+Error: feil språk
+
+
+
+
+
+
+Misclassifications count:
+Target: nb
+        other: 51
+        da: 63
+        nn: 78
+        sv: 16
+
+
+Target: nn
+        nb: 146
+        other: 17
+        da: 32
+        sv: 14
+
+
+Target: da
+        nb: 35
+        other: 6
+        sv: 3
+        nn: 1
+
+
+Target: sv
+        other: 4
+        nn: 1
+
+
+Target: other
+        nb: 13
+        nn: 20
+        da: 14
+        sv: 15
+
+
+## Loose metrics
+        Loose accuracy: 93.51%
+        Loose macro F1: 92.39%
+        Loose macro MCC: 91.00%
+
+
+### Per-language metrics
+        nb:
+                F1: 93.01%
+                MCC: 90.61%
+        nn:
+                F1: 92.43%
+                MCC: 90.81%
+        da:
+                F1: 87.30%
+                MCC: 86.93%
+        sv:
+                F1: 96.12%
+                MCC: 95.37%
+        other:
+                F1: 93.09%
+                MCC: 91.29%
+
+
+
+
+## Strict metrics
+        Strict accuracy: 90.54%
+        Overlap F1: 92.37%
+        Strict macro F1: 90.48%
+        Strict macro MCC: 88.22%
+
+
+### Per-language metrics
+        nb:
+                F1: 90.84%
+                MCC: 87.10%
+        nn:
+                F1: 88.95%
+                MCC: 86.06%
+        da:
+                F1: 84.08%
+                MCC: 82.48%
+        sv:
+                F1: 95.44%
+                MCC: 94.43%
+        other:
+                F1: 93.09%
+                MCC: 91.02%
+
+
+## CPU inference time
+        Total runtime: 0.55 seconds
+        ms / sentence: 0.08 ms
