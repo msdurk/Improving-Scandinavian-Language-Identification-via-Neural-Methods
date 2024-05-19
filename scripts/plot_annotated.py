@@ -1,18 +1,6 @@
-import json
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-
-data = []
-with open('test.jsonl', 'r', encoding='utf-8') as file:
-    for line in file:
-        data.append(json.loads(line))
-
-df = pd.DataFrame(data)
-df['text_length'] = df['text'].apply(lambda x: len(x.split()))
-
-mean_text_length = df['text_length'].mean()
-print(mean_text_length)
 
 def parse_text_file(filepath):
     data = []
@@ -61,7 +49,7 @@ def parse_text_file(filepath):
     print(f"Number of valid records: {len(df)}")
     return df
 
-filepath = 'Fasttext_evaluation.txt'
+filepath = '/Users/victorialangoe/Documents/Documents - Victoria’s MacBook Pro/UiO/IN5550/exam_IN5550/annotated_documnets/annotated_fasttext_original.txt'
 df = parse_text_file(filepath)
 
 df['Error Type'] = df['Error Type'].map({'feil språk': 'Wrong Language', 'tvetydig': 'Ambiguous'})
@@ -76,10 +64,9 @@ colors = ['red', 'purple']
 
 for i, (error_type, color) in enumerate(zip(error_types, colors)):
     mean_length = df[df['Error Type'] == error_type]['Sentence Length'].mean()
+    total_count = df[df['Error Type'] == error_type].shape[0]
     plt.plot(i, mean_length, 'o', markersize=8, color=color, label=f"Mean for {error_type}: {mean_length:.2f}")
-    print(error_type, ":", mean_length)
-
-plt.axhline(y=mean_text_length, color='black', linestyle='--', label=f'Mean Text Length: {mean_text_length:.2f}')
+    print(f"{error_type} - Mean Sentence Length: {mean_length:.2f}, Total Count: {total_count}")
 
 plt.title('Fasttext - Sentence Length vs. Error Type')
 plt.xlabel('Error Type')
