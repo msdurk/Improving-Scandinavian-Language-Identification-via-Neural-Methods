@@ -49,7 +49,7 @@ def parse_text_file(filepath):
     print(f"Number of valid records: {len(df)}")
     return df
 
-filepath = '/Users/victorialangoe/Documents/Documents - Victoria’s MacBook Pro/UiO/IN5550/exam_IN5550/annotated_documnets/annotated_fasttext_original.txt'
+filepath = '/Users/victorialangoe/Documents/Documents - Victoria’s MacBook Pro/UiO/IN5550/exam_IN5550/annotated_documnets/annotated_openlid_with_gold_short.txt'
 df = parse_text_file(filepath)
 
 df['Error Type'] = df['Error Type'].map({'feil språk': 'Wrong Language', 'tvetydig': 'Ambiguous'})
