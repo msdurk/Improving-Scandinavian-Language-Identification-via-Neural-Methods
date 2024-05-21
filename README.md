@@ -9,7 +9,3 @@
 OpenLID:
 ```bash
 python3 eval_mbert_roberta.py --method open --dataset data/test.jsonl
-
-
-
-
