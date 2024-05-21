@@ -1,5 +1,5 @@
 
-class CustomModel(torch.nn.Module):
+class CustomOpenXLMModel(torch.nn.Module):
     def __init__(self, args):
         super(CustomModel, self).__init__()
         self.args = args
