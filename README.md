@@ -49,7 +49,7 @@ scikit-learn
 huggingface_hub
 ```
 Then, run the following command to install them:
-`pip install -r reqs.txt`
+`pip3 install -r reqs.txt`
 
 ### mBERT and XLM-R
 From the respective directories (mbert-based and roberta-based), change the config.py to point to the right paths. Then simply run `python3 main.py` 
