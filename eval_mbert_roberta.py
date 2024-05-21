@@ -243,7 +243,7 @@ class Open2LanguageIdentifier(AbstractLanguageIdentifier):
         super().__init__(args)
         import fasttext
         
-        model_path = "/cluster/work/projects/ec30/ec-victocla/fasttext_model.bin"
+        model_path = "/cluster/work/projects/ec30/ec-victocla/fasttext_model_with_gold_short.bin"
         
         if not os.path.exists(model_path):
             raise FileNotFoundError("Model file not found at the specified path.")
@@ -401,29 +401,28 @@ def evaluate(args, identifier: AbstractLanguageIdentifier):
 
     output_file = "evaluation_results"
     if args.dataset:
-        stripped = args.dataset.split('/')[-1]
-        stripped = stripped.split('.')[0]
+        stripped = os.path.splitext(os.path.basename(args.dataset))[0]
         output_file += "_" + stripped
     if args.path:
-        stripped = args.path.split('/')[-1]
+        stripped = os.path.basename(args.path)
         output_file += "_" + stripped
     output_file += ".txt"
+
     with open(output_file, "w") as f:
-    
         for sample in tqdm(samples):
             text = sample["text"]
             gold_languages = set(sample["languages"])
             predicted_languages = set(identifier.identify(text))
-    
+
             if not predicted_languages.issubset(gold_languages):
                 f.write(f"Sentence: {text}\n")
                 f.write(f"Predicted languages: {predicted_languages}, Target languages: {gold_languages}\n\n")
-    
+
                 for gold_lang in gold_languages:
                     if gold_lang not in predicted_languages:
                         for pred_lang in predicted_languages:
                             misclassifications_count[gold_lang][pred_lang] = misclassifications_count[gold_lang].get(pred_lang, 0) + 1
-    
+
     with open(output_file, "a") as f:
         f.write("\nMisclassifications count:\n")
         for target_lang, miscounts in misclassifications_count.items():
@@ -431,6 +430,7 @@ def evaluate(args, identifier: AbstractLanguageIdentifier):
             for pred_lang, count in miscounts.items():
                 f.write(f"\t{pred_lang}: {count}\n")
             f.write("\n\n")
+        
         f.write(f"\n# Results for {args.method}:\n")
 
         f.write("## Loose metrics\n")

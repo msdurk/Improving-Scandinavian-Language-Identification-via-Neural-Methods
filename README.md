@@ -4,7 +4,14 @@
 
 **annotated_documents**: All annotated mispredictions
 
-## Google Drive Links
+## How to run
 
-Overleaf: https://www.overleaf.com/1332961498qdsqgkbwqtxf#b5fe4d
+OpenLID:
+```bash
+python3 eval_mbert_roberta.py --method open --dataset data/test.jsonl
+
+### Explanation:
+- **Correct Dataset Path**: The path `data/test.jsonl` correctly points to the location of `test.jsonl` relative to the current directory containing `eval_mbert_roberta.py`.
+
+
 
