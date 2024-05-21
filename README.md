@@ -28,8 +28,9 @@ OpenLID:
 python3 eval_mbert_roberta.py --method open --dataset data/test.jsonl
 ```
 
-```bash
 OpenLID/XLM:
+
+```bash
 python3 eval_mbert_roberta.py --method openxml --dataset data/test.jsonl
 ```
 
