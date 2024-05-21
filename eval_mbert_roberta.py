@@ -1,4 +1,7 @@
 """
+Evaluation script that prints wrongly predicted sentences and performance
+metrics for the model.
+
 You need to change num_labels manually for the silver sets for evaluating on the 
 mbert and roberta based models because the silver training set did not contain
 the "other"-label. 
