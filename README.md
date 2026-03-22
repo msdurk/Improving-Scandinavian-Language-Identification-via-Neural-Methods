@@ -1,6 +1,6 @@
 
 
-Repository for code for our submitment to WNNLP 2024 about Scandinavian language identification.
+Repository for our submitment to WNNLP 2024 about Scandinavian language identification.
 
 ## Overview of Directories
 
