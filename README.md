@@ -1,4 +1,4 @@
-# Home Exam Spring 2024 IN5550
+
 
 Repository for code for our submitment to WNNLP 2024 about Scandinavian language identification.
 
